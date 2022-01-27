@@ -27,7 +27,7 @@ main ul {
 }
 
 .bg-weltenbuch {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-weltenbuch.jpg");
+  background-image: url("{{ site.baseurl }}/assets/images/bg-weltenbuch.png");
 }
 
 .bg-lite {
@@ -38,6 +38,7 @@ main ul {
   background-image: url("{{ site.baseurl }}/assets/images/spacepirates.png");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: contain;
   height: 332px;
 }
 
@@ -45,6 +46,7 @@ main ul {
   background-image: url("{{ site.baseurl }}/assets/images/weltenbuch.png");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: contain;
   height: 332px;
 }
 
@@ -52,5 +54,6 @@ main ul {
   background-image: url("{{ site.baseurl }}/assets/images/lite.png");
   background-position: center;
   background-repeat: no-repeat;
+  background-size: contain;
   height: 332px;
 }
