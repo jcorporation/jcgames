@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
+    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+  </head>
+  <body>
+    <header class="navbar navbar-expand-sm navbar-dark bg-blue">
+      <nav class="container-xxl flex-wrap flex-md-nowrap py-3">
+        <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="jcgames" width="78" height="77">
+        </a>
+      </nav>
+    </header>
+    <header class="navbar navbar-expand-md bg-light py-2 mb-2">
+      <nav class="breadcrumb container-xxl flex-wrap px-3 mb-0 justify-content-start">
+        {% include breadcrumbs.md %}
+      </nav>
+    </header>
+    <div class="container-xxl py-2 flex-grow-1">
+      <main>
+        {{ content }}
+      </main>
+    </div>
+    <footer class="footer-bottom bg-light">
+      <nav class="container-xxl text-center">
+        <a class="p-2 text-dark" href="/Kontakt">Kontakt</a>
+      </nav>
+    </footer>
+    <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/default.js"></script>
+  </body>
+</html>

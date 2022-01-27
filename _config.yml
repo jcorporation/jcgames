@@ -1,0 +1,5 @@
+name: jcgames
+description: freie Rollenspiele
+
+sass:
+    sass_dir: assets/css

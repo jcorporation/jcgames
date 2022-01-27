@@ -1,0 +1,31 @@
+---
+---
+
+@import "bootstrap.min.css";
+
+body {
+  background-color: #ececec;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main ul {
+  list-style-type: square;
+}
+
+.breadcrumb > span {
+  margin-top: -0.2rem;
+}
+
+.bg-lite {
+  background-color: #3c80ef;
+}
+
+.bg-spacepirates {
+
+}
+
+.bg-weltenbuch {
+  
+}
