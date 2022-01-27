@@ -23,11 +23,11 @@ main ul {
 }
 
 .bg-spacepirates {
-  background-image: url("assets/images/bg-spacepirates.jpg");
+  background-image: url("{{ site.baseurl }}/assets/images/bg-spacepirates.jpg");
 }
 
 .bg-weltenbuch {
-  background-image: url("assets/images/bg-weltenbuch.jpg");
+  background-image: url("{{ site.baseurl }}/assets/images/bg-weltenbuch.jpg");
 }
 
 .bg-lite {
@@ -35,21 +35,21 @@ main ul {
 }
 
 .card-body-spacepirates {
-  background-image: url("assets/images/spacepirates.png");
+  background-image: url("{{ site.baseurl }}/assets/images/spacepirates.png");
   background-position: center;
   background-repeat: no-repeat;
   height: 332px;
 }
 
 .card-body-weltenbuch {
-  background-image: url("assets/images/weltenbuchv2.png");
+  background-image: url("{{ site.baseurl }}/assets/images/weltenbuch.png");
   background-position: center;
   background-repeat: no-repeat;
   height: 332px;
 }
 
 .card-body-lite {
-  background-image: url("assets/images/litev2.png");
+  background-image: url("{{ site.baseurl }}/assets/images/lite.png");
   background-position: center;
   background-repeat: no-repeat;
   height: 332px;
