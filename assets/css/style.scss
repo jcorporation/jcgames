@@ -18,14 +18,39 @@ main ul {
   margin-top: -0.2rem;
 }
 
+.bg-red {
+  background-color: #d20707;
+}
+
+.bg-spacepirates {
+  background-image: url("assets/images/bg-spacepirates.jpg");
+}
+
+.bg-weltenbuch {
+  background-image: url("assets/images/bg-weltenbuch.jpg");
+}
+
 .bg-lite {
   background-color: #3c80ef;
 }
 
-.bg-spacepirates {
-
+.card-body-spacepirates {
+  background-image: url("assets/images/spacepirates.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 332px;
 }
 
-.bg-weltenbuch {
-  
+.card-body-weltenbuch {
+  background-image: url("assets/images/weltenbuchv2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 332px;
+}
+
+.card-body-lite {
+  background-image: url("assets/images/litev2.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 332px;
 }
