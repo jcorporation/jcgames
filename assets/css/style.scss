@@ -44,7 +44,7 @@ main ul {
 .card-body-spacepirates {
   background-image: url("{{ site.baseurl }}/assets/images/spacepirates.png");
   background-position: center;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat, repeat;
   background-size: contain;
   height: 332px;
 }
@@ -63,4 +63,8 @@ main ul {
   background-repeat: no-repeat;
   background-size: contain;
   height: 332px;
+}
+
+.card-footer-spacepirates {
+  text-shadow: 1px 1px black;
 }

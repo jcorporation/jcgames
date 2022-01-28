@@ -16,7 +16,7 @@ title: freie Rollenspiele
     <div class="col">
         <div class="card mb-3 bg-spacepirates clickable">
             <div class="card-body card-body-spacepirates"></div>
-            <div class="card-footer d-flex justify-content-center">
+            <div class="card-footer d-flex justify-content-center card-footer-spacepirates">
                 <a href="https://jcgames.de/spacepirates/" class="text-light">SpacePirates</a>
             </div>
         </div>
