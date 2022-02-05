@@ -11,7 +11,7 @@ Die größte Sommerhitze ist gerade vorbei, Zeit für einen neuen jcgames Status
 
 Dafür war der August für mich unter dem Zeichen der SpacePirates App. Die App ist seit soeben in der Version 3.1 online. Im August hat die App große Fortschritte gemacht. Es gibt nun die angekündigte Piraten- und Raumschiffverwaltung inklusive Druckfunktion und Synchronisierung der App über Gerätegrenzen hinweg. Ideen für weitere Funktionen habe ich auch schon, also seit gespannt, was die nächsten Versionen noch so bringen.
 
-- [zur App]({{ site.baseurl }}//Spacepirates/Webapp)
+- [zur App](https://jcgames.de/spacepirates/Webapp)
 
 ### Stars und Sternchen
 

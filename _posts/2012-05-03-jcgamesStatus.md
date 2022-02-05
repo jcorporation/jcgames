@@ -15,7 +15,7 @@ Und schon wieder ist ein Monat vorbeigeflogen und die RPC naht. Grund genug wied
 
 Für SpacePirates ist im April die neue Version des SpacePirates Grundregelwerks erschienen, als auf 100 Stück limitierte Hardcoverausgabe. Auch die beiden neuen Themenhefte &bdquo;Atlanter vs Spaceamazonen&ldquo; und &bdquo;BigBong-Theorie&ldquo; sind jetzt als Hefte erhältlich.
 
-- [Produkte auf der SpacePirates-Homepage]({{ site.baseurl }}//Spacepirates/Produkte)
+- [Produkte auf der SpacePirates-Homepage](https://jcgames.de/spacepirates/Produkte)
 
 Zur RPC gibt es ein brandneues SpacePirates-Abenteuer, das noch nicht mal mein Lektor kennt.
 
@@ -23,6 +23,6 @@ Zur RPC gibt es ein brandneues SpacePirates-Abenteuer, das noch nicht mal mein L
 
 Um SpaceCowboys war es lange ruhig, aber Mitte April gab es ein runderneuertes PDF mit aktualisierten Regeln und komplett überarbeiteten Setting. Auch in den letzten Tagen hat sich etwas getan. Ich werde versuchen auf der RPC die aktuellste Fassung dabei zu haben.
 
-- [SpaceCowboys]({{ site.baseurl }}//Lite/Settings/Spacecowboys)
+- [SpaceCowboys](https://lite.jcgames.de/Settings/Spacecowboys)
 
 

@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2016-02-16-aktion-fandom-auf-der-rpc-2016
 ---
 
-<img alt="" height="185" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/nrm/rpc2016.jpg" width="500" />
+
 
 Die RPC unterstützt auch dieses Jahr wieder nichtkommerzielle Vereine und Spielergruppen mit kostenlos zur Verfügung gestellten Präsentationsflächen.
 

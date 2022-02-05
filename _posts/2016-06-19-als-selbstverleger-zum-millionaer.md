@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2016-06-19-als-selbstverleger-zum-millionaer
 ---
 
-DorpTV hat mal wieder einen interessanten Podcast veröffentlicht: [Das Geld und das Hobby](https://www.die-dorp.de/index.php/dorpcast/2053-dorpcast-78-das-geld-und-das-hobby). Ich nehme ihn jetzt einfach mal zum Anlass, um aus dem jcgames Nähkästchen zu plaudern und das möglichst konkret, am Beispiel des [Lite Grundregelwerks]({{ site.baseurl }}//Lite/Produkte).
+DorpTV hat mal wieder einen interessanten Podcast veröffentlicht: [Das Geld und das Hobby](https://www.die-dorp.de/index.php/dorpcast/2053-dorpcast-78-das-geld-und-das-hobby). Ich nehme ihn jetzt einfach mal zum Anlass, um aus dem jcgames Nähkästchen zu plaudern und das möglichst konkret, am Beispiel des [Lite Grundregelwerks](https://lite.jcgames.de/Produkte).
 
 Bei dem aktuellen Lite Grundregelwerk sind die reinen Kosten für den Buchdruck 5,50 EUR (DIN-A5 Softcover, 68 farbige Innenseiten) bei einer Auflage von 50 Stück. Somit muss ich 275,- EUR vorschießen und 28 Stück verkaufen (Verkaufspreis ist 10,- EUR) um nur den Druck zu refinanzieren. Für Layout und Lektorat muss ich zum Glück kaum Kosten kalkulieren, das Layout mache ich selber und das Lektorat bekomme ich für ein Belegexemplar. Wenn ich ein Exemplar noch selber behalten will, bleiben also 20 Bücher mit denen ich Gewinn erwirtschaften kann, also 200,- EUR. Weitere Produktionskosten hatte ich bei Lite keine, da ich keine Kosten für Bilder hatte.
 
@@ -19,7 +19,7 @@ Für SpacePirates sieht die Kalkulation etwas besser aus, da ich bei Lite absich
 
 Zum Abschluss noch eine Grafik, die den jcgames Jahresumsatz zeigt. Die Produktionskosten (gelb) sind alle Kosten für die Bücher, Standmaterial (Banner, Visitenkarten, etc) und Versandkosten. Die gesamten Ausgaben (orange) beinhalten auch noch Hotelkosten und weiteres. Die grüne Linie sind die Einnahmen. Wie man sieht, schaffe ich es mit meiner Kalkulation die Produktionskosten zu decken und das ist mein Ziel, alles oben drauf ist Bonus.
 
-<img alt="" class="noEnhance" height="392" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/org/jcgames-umsatz.png" width="768"/>
+
 
 - [Auflagenstärke meiner Bücher]({{ site.baseurl }}/Auflagen)
 

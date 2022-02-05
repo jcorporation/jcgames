@@ -5,9 +5,9 @@ tag: jcgames
 permalink: /Aktuelles/2016-01-16-meine-erfahrungen-mit-drivethrurpg
 ---
 
-Wie [Ludus Leonis](http://ludus-leonis.com/blog/2016/01/14/2015-auf-drivethrurpg/) habe ich meine PDF auch auf [DriveThruRPG](http://www.drivethrurpg.com/browse/pub/8994/jcgames) als &bdquo; Pay-what-you-want&ldquo; eingestellt. Neben den drei [SpacePirates Büchern]({{ site.baseurl }}//Spacepirates/Produkte) gibt es auch das [englische SpacePirates Schnellstart-Heft]({{ site.baseurl }}//Spacepirates/En) und natürlich auch das [Lite Grundregelwerk]({{ site.baseurl }}//Lite/Produkte).
+Wie [Ludus Leonis](http://ludus-leonis.com/blog/2016/01/14/2015-auf-drivethrurpg/) habe ich meine PDF auch auf [DriveThruRPG](http://www.drivethrurpg.com/browse/pub/8994/jcgames) als &bdquo; Pay-what-you-want&ldquo; eingestellt. Neben den drei [SpacePirates Büchern](https://jcgames.de/spacepirates/Produkte) gibt es auch das [englische SpacePirates Schnellstart-Heft](https://jcgames.de/spacepirates/En) und natürlich auch das [Lite Grundregelwerk](https://lite.jcgames.de/Produkte).
 
-<a href="http://www.drivethrurpg.com/browse/pub/8994/jcgames"><img alt="" class="none" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/nrm/drivethrurpg.png"/></a>
+<a href="http://www.drivethrurpg.com/browse/pub/8994/jcgames"></a>
 
 Im ersten Monat haben mich die Verkaufszahlen echt begeistert und meine PDF waren sogar in den Top 5 der meistgekauften deutschen Produkte. In den folgenden Monaten hat das stark nachgelassen, was mich aber auch nicht verwunderte.
 

@@ -13,21 +13,21 @@ Auch 2016 war ich wieder auf der [RPC]({{ site.baseurl }}/~jcorporation/2016-06-
 
 ## Lite
 
-<img alt="Lite" class="floatleft" height="140" src="{{ site.baseurl }}/assets/pics/lite/titel/grw-tn.png" width="99" />Für Lite kam 2016 leider nichts Gedrucktes heraus. Dafür gab es aber das ein oder andere neue Setting (Supers, Robin, Zombies) und ein paar Abenteuer als PDF. Die Softcoverauflage ist quasi ausverkauft und mittlerweile arbeite ich an einer Neuauflage mit leicht überarbeiteten und ergänzten Regeln. Wenn alles klappt, kommt diese Version zur RPC 2017 heraus, wahrscheinlich sogar als Hardcover. Ansonsten versuche ich den Fokus auf sofort spielbares Material zu legen, also weiter ausgearbeitete Settings und Abenteuer.
+Für Lite kam 2016 leider nichts Gedrucktes heraus. Dafür gab es aber das ein oder andere neue Setting (Supers, Robin, Zombies) und ein paar Abenteuer als PDF. Die Softcoverauflage ist quasi ausverkauft und mittlerweile arbeite ich an einer Neuauflage mit leicht überarbeiteten und ergänzten Regeln. Wenn alles klappt, kommt diese Version zur RPC 2017 heraus, wahrscheinlich sogar als Hardcover. Ansonsten versuche ich den Fokus auf sofort spielbares Material zu legen, also weiter ausgearbeitete Settings und Abenteuer.
 
-**[&raquo; Lite]({{ site.baseurl }}//Lite)**
+**[&raquo; Lite](https://lite.jcgames.de)**
 
 ## SpacePirates
 
-<img alt="SpacePirates v2" class="floatleft" height="140" src="{{ site.baseurl }}/assets/pics/spacepirates/titel/spacepiratesv5-tn.png" width="100" />SpacePirates ist 2016 in der 5. Auflage erschienen. Lite entstand aus den Regeln von SpacePirates und diese Auflage basiert wiederum auf den Regeln von Lite, so, dass sich der Kreis geschlossen hat. SpacePirates spielt sich besonders im Raumkampf jetzt noch erzählerischer. In die Neuauflage sind auch viele Settinginfos geflossen, die vorher in Themenheften oder SP:Insidern verstreut waren. Erwähnenswert ist auch noch das neue Abenteuer Blumenkind, das auf der gleichnamigen [Battlemap Heroes](http://ludus-leonis.com/battlemap-heroes/) Mission von [Ludus Leonis](http://ludus-leonis.com/) beruht. Ob und was 2017 für SpacePirates kommen wird steht noch in den Sternen, ein paar Ideen habe ich aber durchaus.
+SpacePirates ist 2016 in der 5. Auflage erschienen. Lite entstand aus den Regeln von SpacePirates und diese Auflage basiert wiederum auf den Regeln von Lite, so, dass sich der Kreis geschlossen hat. SpacePirates spielt sich besonders im Raumkampf jetzt noch erzählerischer. In die Neuauflage sind auch viele Settinginfos geflossen, die vorher in Themenheften oder SP:Insidern verstreut waren. Erwähnenswert ist auch noch das neue Abenteuer Blumenkind, das auf der gleichnamigen [Battlemap Heroes](http://ludus-leonis.com/battlemap-heroes/) Mission von [Ludus Leonis](http://ludus-leonis.com/) beruht. Ob und was 2017 für SpacePirates kommen wird steht noch in den Sternen, ein paar Ideen habe ich aber durchaus.
 
-**[&raquo; SpacePirates]({{ site.baseurl }}//Spacepirates)**
+**[&raquo; SpacePirates](https://jcgames.de/spacepirates)**
 
 ## Das Weltenbuch
 
-<img alt="Das Weltenbuch" class="floatleft" height="140" src="{{ site.baseurl }}/assets/pics/weltenbuch/titel/DasWeltenbuchV2-tn.png" width="99" />Nach einer gefühlten Ewigkeit ist 2016 &bdquo;Das Weltenbuch&ldquo; in einer neuen Version erschienen. Die Regeln wurden dafür auf Lite umgestellt, aber auch die Weltbeschreibung und die Karte der Doppelseite wurden überarbeitet. Zur RPC kam dann ein schickes Hardcover mit 248 Seiten Umfang heraus. Auch wenn ich aktuell Fantasy bei Rollenspielen eher meide, war es mit eine Herzensangelegenheit mein erstes geschriebenes Rollenspiel neu aufzulegen.
+Nach einer gefühlten Ewigkeit ist 2016 &bdquo;Das Weltenbuch&ldquo; in einer neuen Version erschienen. Die Regeln wurden dafür auf Lite umgestellt, aber auch die Weltbeschreibung und die Karte der Doppelseite wurden überarbeitet. Zur RPC kam dann ein schickes Hardcover mit 248 Seiten Umfang heraus. Auch wenn ich aktuell Fantasy bei Rollenspielen eher meide, war es mit eine Herzensangelegenheit mein erstes geschriebenes Rollenspiel neu aufzulegen.
 
-**[&raquo; Das Weltenbuch]({{ site.baseurl }}//Weltenbuch)**
+**[&raquo; Das Weltenbuch](https://jcgames.de/weltenbuch)**
 
 ## Fazit
 

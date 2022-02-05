@@ -11,20 +11,20 @@ Anfang Mai war die RPC und ich hatte zusammen mit Ludus Leonis, Seelenfänger un
 
 ### SpacePirates
 
-Das RPC-Abenteuer [SpaceDrache]({{ site.baseurl }}//Spacepirates/Abenteuer/Spacedrache) ist als PDF erschienen und wird in das kommende Themenheft Stars &amp; Sternchen integriert werden, das im Mai auch schon etwas kompletter wurde. Zudem habe ich begonnen das alte Quickstartheft, als Schnellstartheft auf die neuen Regeln zu konvertieren. Geplant ist jetzt noch das integrierte Abenteuer Schatzjagd zu überarbeiten um dann das Schnellstart-Heft wieder als PDF anzubieten und evtl. auch für den ersten deutschen Free RPG Day als s/w Heft zu drucken.
+Das RPC-Abenteuer [SpaceDrache](https://jcgames.de/spacepirates/Abenteuer/Spacedrache) ist als PDF erschienen und wird in das kommende Themenheft Stars &amp; Sternchen integriert werden, das im Mai auch schon etwas kompletter wurde. Zudem habe ich begonnen das alte Quickstartheft, als Schnellstartheft auf die neuen Regeln zu konvertieren. Geplant ist jetzt noch das integrierte Abenteuer Schatzjagd zu überarbeiten um dann das Schnellstart-Heft wieder als PDF anzubieten und evtl. auch für den ersten deutschen Free RPG Day als s/w Heft zu drucken.
 
-- [SpacePirates]({{ site.baseurl }}//Spacepirates)
+- [SpacePirates](https://jcgames.de/spacepirates)
 
 ### Das Weltenbuch V2
 
-Die Arbeit an das Weltenbuch V2 hat begonnen und kann [hier]({{ site.baseurl }}//Weltenbuch/Regelwerkv2) begutachtet werden. Momentan sind die SpacePirates Regeln und der Spielleiter Teil fast vollständig portiert und nun wartet die Doppelseite auf ihre Überarbeitung.
+Die Arbeit an das Weltenbuch V2 hat begonnen und kann [hier](https://jcgames.de/weltenbuch/Regelwerkv2) begutachtet werden. Momentan sind die SpacePirates Regeln und der Spielleiter Teil fast vollständig portiert und nun wartet die Doppelseite auf ihre Überarbeitung.
 
-- [Das Weltenbuch V2]({{ site.baseurl }}//Weltenbuch/Regelwerkv2)
+- [Das Weltenbuch V2](https://jcgames.de/weltenbuch/Regelwerkv2)
 
 ### SpaceCowboys
 
 SpaceCowboys schreitet auch langsam voran. Die grobe Überarbeitung des Settings ist abgeschlossen und nun wartet es darauf mit einem noch zu erstellenden Abenteuer bespielt zu werden.
 
-- [SpaceCowboys]({{ site.baseurl }}//Lite/Settings/Spacecowboys)
+- [SpaceCowboys](https://lite.jcgames.de/Settings/Spacecowboys)
 
 

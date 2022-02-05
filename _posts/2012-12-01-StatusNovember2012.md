@@ -7,9 +7,9 @@ permalink: /Aktuelles/2012-12-01-StatusNovember2012
 
 Pünktlich zum Monatsanfang gibt es wieder einen Monatsrückblick und eine Aussicht auf neue Produkte unter der jcgames Flagge.
 
-Im November sind die ersten beiden Version meines Webapp-Frameworks [jcAPP]({{ site.baseurl }}/Software/Jcapp) erschienen, zeitgleich mit einer neuen [SpacePirates App]({{ site.baseurl }}//Spacepirates/Webapp). Zudem ist die SpacePirates App jetzt auch im [Firefox Marketplace](https://marketplace.firefox.com/search/?q=spacepirates) kostenlos verfügbar. Momentan arbeite ich auch an einer neuen Version der App, die einen überarbeiteten Startbildschirm mitbringen wird.
+Im November sind die ersten beiden Version meines Webapp-Frameworks [jcAPP]({{ site.baseurl }}/Software/Jcapp) erschienen, zeitgleich mit einer neuen [SpacePirates App](https://jcgames.de/spacepirates/Webapp). Zudem ist die SpacePirates App jetzt auch im [Firefox Marketplace](https://marketplace.firefox.com/search/?q=spacepirates) kostenlos verfügbar. Momentan arbeite ich auch an einer neuen Version der App, die einen überarbeiteten Startbildschirm mitbringen wird.
 
-Das SpacePirates Schnellstart-Heft wurde im November, dank Bombshell, nochmals für den [GRT](http://gratisrollenspieltag.de/) überarbeitet und die [Spendenaktion]({{ site.baseurl }}//Spacepirates/~jcorporation/2012-11-23/LasstdieSpacePiratesaufdenGratis-Rollenspiel-Taglos) für das kostenlose Heft für den GRT konnte die Auflage schon von 150 auf 600 Stück steigern. Die Spendenaktion läuft noch eine gute Woche, so dass du dich auch noch beteiligen kannst!
+Das SpacePirates Schnellstart-Heft wurde im November, dank Bombshell, nochmals für den [GRT](http://gratisrollenspieltag.de/) überarbeitet und die [Spendenaktion](https://jcgames.de/spacepirates/~jcorporation/2012-11-23/LasstdieSpacePiratesaufdenGratis-Rollenspiel-Taglos) für das kostenlose Heft für den GRT konnte die Auflage schon von 150 auf 600 Stück steigern. Die Spendenaktion läuft noch eine gute Woche, so dass du dich auch noch beteiligen kannst!
 
 Das SpacePirates Grundregelwerk gibt es jetzt auch als eBook im freien EPUB 3 Format. Zudem wurden viele SpacePirates PDFs nochmals optimiert, so dass die Dateigröße um bis zu 30%, bei gleicher Qualität, geschrumpft ist. Auch die SpacePirates Sternenkarte wurde auf den neuesten Stand gebracht.
 

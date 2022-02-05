@@ -6,7 +6,7 @@ permalink: /Aktuelles/2012-07-07-Gratisrollenspieltag
 ---
 
 
-[<img alt="Gratisrollenspieltag" src="{{ site.baseurl }}/assets/pics/jcgames/partner/gratisrollenspieltag.png" />](http://gratisrollenspieltag.de/)
+[](http://gratisrollenspieltag.de/)
 
 Der Gratisrollenspieltag ist ja schon in aller Munde, ich will ihn aber hier trotzdem nicht unerwähnt lassen, da ich diese Aktion für extrem unterstützenswert halte.
 

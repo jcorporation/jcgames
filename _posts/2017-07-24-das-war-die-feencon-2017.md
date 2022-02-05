@@ -5,11 +5,11 @@ tag: jcgames
 permalink: /Aktuelles/2017-07-24-das-war-die-feencon-2017
 ---
 
-<img alt="FeenCon 2017 Stand" height="375" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/2017-feencon/nrm/IMG_6056.JPG" width="500"/>
+
 
 Nachdem ich dieses Jahr nicht auf der RPC war, habe ich mich umso mehr gefreut auf der FeenCon sein zu können. Mittlerweile reicht ein kurzes &bdquo;wie immer&ldquo; am Eingang der Con um alle wichtigen Fakten abzuklären, daher fand man meinen Stand, wie immer, vor der Bühne im großen Saal. Dieses mal war ich am Freitag recht zeitig dran, so dass ich meinen Stand aufgebaut hatte, bevor er überhaupt beschriftet war, aber mittlerweile fühle ich mich auf der Con schon fast heimisch.
 
-Wie immer war ich auch dieses Jahr nicht einsam und allein am Stand, ich konnte die beiden Macher hinter dem [SpacePirates StarTunes Album]({{ site.baseurl }}//Spacepirates/Produkte/Startunescdbox) überzeugen mitzufahren und auch Belchion, mein Lektor, war am Stand anzutreffen.
+Wie immer war ich auch dieses Jahr nicht einsam und allein am Stand, ich konnte die beiden Macher hinter dem [SpacePirates StarTunes Album](https://jcgames.de/spacepirates/Produkte/Startunescdbox) überzeugen mitzufahren und auch Belchion, mein Lektor, war am Stand anzutreffen.
 
 Die Con war gut besucht und gut organisiert und auch das Rahmenprogramm mit Lesungen, Workshops und die Feuershow am Samstag war wie gewohnt. Auch dieses Jahr konnte man über die Hitze nicht wirklich jammern, mein Ventilator hat mir aber durchaus gute Dienste geleistet.
 

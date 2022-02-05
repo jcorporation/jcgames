@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2014-01-14-StatusmeinerProjekte
 ---
 
-<img alt="" class="floatleft" height="216" src="{{ site.baseurl }}/assets/pics/rsp-icons.png" width="216" />Das neue Jahr ist ja schon ein paar Tage alt, höchste Zeit ein paar Worte über den Status und die Planungen für meine Projekte zu verlieren.
+Das neue Jahr ist ja schon ein paar Tage alt, höchste Zeit ein paar Worte über den Status und die Planungen für meine Projekte zu verlieren.
 
 ### Webplattform
 
@@ -13,7 +13,7 @@ Momentan bin ich dabei die einzelnen Webpräsenzen und speziellen Tools der einz
 
 ### SpacePirates
 
-Mit [Glutulhu]({{ site.baseurl }}//Spacepirates/Weltraum/Aliens/Glukorianer/Glutulhu) ist für SpacePirates ein großes Metaplotereignis erschienen, in dem das ganze Universum umgekrempelt wurde und sozusagen denn Abschluss für SpacePirates bildet, aber keine Sorge er hat einen Aufhänger für weiteres Material integriert. Wann es damit genau weitergeht, steht aber noch in den Sternen und vorerst sind keine weiteren Veröffentlichungen geplant.
+Mit [Glutulhu](https://jcgames.de/spacepirates/Weltraum/Aliens/Glukorianer/Glutulhu) ist für SpacePirates ein großes Metaplotereignis erschienen, in dem das ganze Universum umgekrempelt wurde und sozusagen denn Abschluss für SpacePirates bildet, aber keine Sorge er hat einen Aufhänger für weiteres Material integriert. Wann es damit genau weitergeht, steht aber noch in den Sternen und vorerst sind keine weiteren Veröffentlichungen geplant.
 
 ### Lite
 

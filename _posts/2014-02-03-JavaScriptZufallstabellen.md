@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2014-02-03-JavaScriptZufallstabellen
 ---
 
-<img alt="" height="90" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/tn2/rspkarneval.png" width="200" />
+
 
 Dritter Februar und mein dritter Beitrag zum Karneval der RSP-Blogs: [Forum](http://forum.rsp-blogs.de/rsp-karneval/zufallstabellen-%28februar-2014%29/), [Auftakt und Einladung](http://greifenklaue.wordpress.com/2014/02/02/rsp-blog-karneval-auftakt-und-einladung-zufallstabellen/).
 

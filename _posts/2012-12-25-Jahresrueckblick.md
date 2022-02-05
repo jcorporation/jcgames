@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2012-12-25-Jahresrueckblick
 ---
 
-<img alt="" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/org/sp2012.png" />
+
 
 Und schon wieder ist das Jahr fast vorbei, Zeit für einen Jahresrückblick. Zuerst mal schauen, was ich mir Ende 2011 für das Jahr 2012 vorgenommen habe:
 

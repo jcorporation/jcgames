@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2014-03-16-GRT2014imHugendubelUlm
 ---
 
-<img alt="" class="floatleft" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/tn2/grt2014-hugendubel.jpg" />Dieses Jahr hat in Ulm der Hugendubel am Gratisrollenspieltag mitgemacht. Unterstützt wurde die Aktion durch den lokalen Rollenspielverein [CUBUS](http://www.cubus-ulm.de/). Die Aktion war hier ein voller Erfolg. Durch die zentrale Lage hatten wir viel Laufkundschaft und sind mit vielen Neulingen, ehemaligen Rollenspielern und natürlich auch Veteranen ins Gespräch gekommen. Unsere zwei Spieltische waren von 10 bis 17 Uhr fast durchgehend belegt und ein paar Neulinge haben sogar spontan nach der Runde ein Rollenspiel gekauft.
+Dieses Jahr hat in Ulm der Hugendubel am Gratisrollenspieltag mitgemacht. Unterstützt wurde die Aktion durch den lokalen Rollenspielverein [CUBUS](http://www.cubus-ulm.de/). Die Aktion war hier ein voller Erfolg. Durch die zentrale Lage hatten wir viel Laufkundschaft und sind mit vielen Neulingen, ehemaligen Rollenspielern und natürlich auch Veteranen ins Gespräch gekommen. Unsere zwei Spieltische waren von 10 bis 17 Uhr fast durchgehend belegt und ein paar Neulinge haben sogar spontan nach der Runde ein Rollenspiel gekauft.
 
 Unter den Spielern und Interessierten haben wir Lose verteilt und Abend eine kleine Verlosung veranstaltetet. Man konnte eine StarWars Einsteigerbox, Dungeonslayers und SpacePirates gewinnen.
 

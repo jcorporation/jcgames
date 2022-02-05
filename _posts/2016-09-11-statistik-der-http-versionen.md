@@ -7,7 +7,7 @@ permalink: /Aktuelles/2016-09-11-statistik-der-http-versionen
 
 Nachdem ich vor gut einem Monat HTTP/2 auf meinem Webserver aktiviert habe, hat es mich mal interessiert, wie viele Clients das neue Protokoll benutzen und hab dazu gleich einen kleine Grafik gebaut. Auf meinen Seiten wird jetzt schon HTTP/2 am meisten genutzt. Wenn ich die Bots herausrechne bleibt die Anzahl der HTTP/2 Zugriffe fast gleich, aber HTTP/1.1 Zugriffe sinken deutlich.
 
-<img alt="" height="340" src="{{ site.baseurl }}/assets/pics/jcgames/gallery/diverse/org/httpstatistik.png" width="605" />
+
 
 <table>
 <caption>Zugriffe</caption>

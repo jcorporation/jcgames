@@ -2,7 +2,7 @@
 layout: post
 title: "RSP-Karneval - selbstgeschriebene Rollenspiele"
 tag: jcgames
-permalink: /Aktuelles/2012-02-27-RSP-Karneval-nbspselbstgeschriebeneRollenspiele
+permalink: /Aktuelles/2012-02-27-RSP-Karneval-selbstgeschriebeneRollenspiele
 ---
 
 Das Februar Thema des RSP-Karnevals ist sehr interessant und da ich jetzt schon 2 selbstgeschriebene Rollenspiele gedruckt habe und an einem dritten nebenzu arbeite, will ich diesmal auch etwas zu diesem Umzug beitragen. Ich will ein paar Worte verlieren, wie ich, am Beispiel von SpacePirates, an das Design von etwas anderen Settings herangehe, über Regeln sind ja schon genug Worte verloren worden.

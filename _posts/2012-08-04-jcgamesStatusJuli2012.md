@@ -13,7 +13,7 @@ Seit dem 9. Juli ist sie fertig: Die neue SpacePirates HTML5 App, die zugleich f
 
 Für die Zukunft der App will ich eine Verwaltung von NSC und Piratencrews implementieren und dafür auch den Raumschiffkonfigurator auf die App portieren. Gespeichert werden die Daten dann offline auf dem Device mit Synchronisierungsmöglichkeit in die SpacePirates Cloud.
 
-- [SpacePirates HTML5 App]({{ site.baseurl }}//Spacepirates/Webapp)
+- [SpacePirates HTML5 App](https://jcgames.de/spacepirates/Webapp)
 
 ### Stars und Sternchen
 

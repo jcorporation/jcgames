@@ -7,7 +7,7 @@ permalink: /Aktuelles/2013-10-27-Spieltipps
 
 Dieser Blogeintrag ist Teil des Oktober-RSP-Karnevals mit dem Thema Rollenspieltipps. [Hier](http://zeitzeugin.net/2013/09/was-sind-eure-rollenspiel-tipps/) der Startartikel der Organisatorin Zeitzeugin und [hier](http://forum.rsp-blogs.de/rsp-karneval/rollenspieltipps-%28oktober%29/) der entsprechende Thread im RSP-Blogs-Forum.
 
-Ich will mich mit einer knackigen Zusammenfassung aus dem [Lite-Regelwerk]({{ site.baseurl }}//Lite) beteiligen, die so für jede Rollenspielrunde Gültigkeit hat.
+Ich will mich mit einer knackigen Zusammenfassung aus dem [Lite-Regelwerk](https://lite.jcgames.de) beteiligen, die so für jede Rollenspielrunde Gültigkeit hat.
 
 <ol>
 - Spiele einen interessanten Charakter und vor allem sozialen Charakter, der in das Gruppengefüge passt und auch für Abenteuer geeignet ist. Fachidioten und asoziale Charaktere haben in einer Spielrunde nichts zu suchen.

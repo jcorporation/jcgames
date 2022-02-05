@@ -30,7 +30,7 @@ Wenn ich die Fakten so anschaue, bin ich wohl eine Marketingniete oder meine Spi
 - SpacePirates (2016): 0 Rezensionen, 1 Spielbericht
 - Das Weltenbuch (2016): 0 Rezensionen, 0 Spielberichte
 
-Diese Zahlen können natürlich nicht wirklich motivieren. Dagegen motiviert mich aber die Zahl der Fan-Settings von Lite. [Drei]({{ site.baseurl }}//Lite/Settings) gibt es auf der Homepage zum Download und von zumindest zwei weiteren habe ich gehört.
+Diese Zahlen können natürlich nicht wirklich motivieren. Dagegen motiviert mich aber die Zahl der Fan-Settings von Lite. [Drei](https://lite.jcgames.de/Settings) gibt es auf der Homepage zum Download und von zumindest zwei weiteren habe ich gehört.
 
 Damit schließe ich diesen Beitrag, der auch nicht zum Jammern da war, sondern einfach nur den Ist-Zustand beleuchten und aufzeigen sollte, was mich motiviert und demotiviert.
 
