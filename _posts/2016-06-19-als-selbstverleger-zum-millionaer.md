@@ -19,10 +19,4 @@ Für SpacePirates sieht die Kalkulation etwas besser aus, da ich bei Lite absich
 
 Zum Abschluss noch eine Grafik, die den jcgames Jahresumsatz zeigt. Die Produktionskosten (gelb) sind alle Kosten für die Bücher, Standmaterial (Banner, Visitenkarten, etc) und Versandkosten. Die gesamten Ausgaben (orange) beinhalten auch noch Hotelkosten und weiteres. Die grüne Linie sind die Einnahmen. Wie man sieht, schaffe ich es mit meiner Kalkulation die Produktionskosten zu decken und das ist mein Ziel, alles oben drauf ist Bonus.
 
-
-
-- [Auflagenstärke meiner Bücher]({{ site.baseurl }}/Auflagen)
-
 Kommentare, Diskussionen oder Rückfragen zu diesem Artikel auch gerne im [RSP-Blogs-Forum](http://forum.rsp-blogs.de/diskussion-und-kommentare/(jcgames)-als-selbstverleger-zum-millionar/).
-
-

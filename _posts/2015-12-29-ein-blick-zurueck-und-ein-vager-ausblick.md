@@ -7,7 +7,7 @@ permalink: /Aktuelles/2015-12-29-ein-blick-zurueck-und-ein-vager-ausblick
 
 Das Jahr 2015 nähert sich dem Ende, eine gute Gelegenheit zurückzublicken und anzudeuten, was 2016 kommen könnte.
 
-Ich war dieses Jahr wieder auf zwei großen Cons mit einem Stand vertreten, ich verlinke einfach meine kurzen Berichte dazu: [RPC]({{ site.baseurl }}/~jcorporation/2015-05-18/DaswardieRPC2015) und [FeenCon]({{ site.baseurl }}/~jcorporation/2015-07-05/DaswardieFeenCon2015). Ein weiterer Pflichttermin ist natürlich der [Gratisrollenspieltag](http://gratisrollenspieltag.de/). Wie im Jahr davor, war ich mit dem Rollenspielverein [Cubus](http://cubus-ulm.de/) im Hugendubel in Ulm vertreten. Die kleineren Cons sind 2015 leider auf der Strecke geblieben, aber ich habe stark vor sie 2016 wieder heimzusuchen.
+Ich war dieses Jahr wieder auf zwei großen Cons mit einem Stand vertreten: RPC und FeenCon. Ein weiterer Pflichttermin ist natürlich der [Gratisrollenspieltag](http://gratisrollenspieltag.de/). Wie im Jahr davor, war ich mit dem Rollenspielverein [Cubus](http://cubus-ulm.de/) im Hugendubel in Ulm vertreten. Die kleineren Cons sind 2015 leider auf der Strecke geblieben, aber ich habe stark vor sie 2016 wieder heimzusuchen.
 
 ## Lite
 
@@ -30,5 +30,3 @@ Momentan gibt es auch schon ein Vorschau-PDF auf die [5. Version von SpacePirate
 Das Weltenbuch hat die letzten Jahre kaum Aufmerksamkeit von mir bekommen, aber 2015 habe ich wieder etwas daran gewerkelt. Zuerst habe ich die Regeln an Lite angepasst und ein kleines PDF veröffentlicht und momentan bin ich gerade dabei, das komplette Grundregelwerk zu überarbeiten, um daraus eine eigenständige zweite Version zu machen, die auf den Lite Regelkern aufsetzt. Vielleicht kommt 2016 schon das finale PDF und ein Hardcover.
 
 **[&raquo; Das Weltenbuch](https://jcgames.de/weltenbuch)**
-
-

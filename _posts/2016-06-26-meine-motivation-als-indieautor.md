@@ -5,7 +5,7 @@ tag: jcgames
 permalink: /Aktuelles/2016-06-26-meine-motivation-als-indieautor
 ---
 
-Nachdem ich im letzten Artikel über die knappe [Kalkulation meiner Spiele]({{ site.baseurl }}/News/Jcgames/2016-06-19/Als-selbstverleger-zum-millionaer) geschrieben habe, will ich heute über ein weiteres Thema schreiben: Was motiviert mich als Indieautor?
+Nachdem ich im letzten Artikel über die knappe Kalkulation meiner Spiele geschrieben habe, will ich heute über ein weiteres Thema schreiben: Was motiviert mich als Indieautor?
 
 Mein Ausgangspunkt ist, dass Indiespiele nur geschrieben werden, weil die Macher dahinter motiviert sind, Geld verdienen lässt sich damit offensichtlich ja nicht. Aber was sind die Motivationsgründe und vor allem was kann man tun, um die Macher weiter zu motivieren? Das hier ist nur meine Sichtweise, andere Indieautoren können natürlich ganz andere Gründe haben.
 
@@ -35,11 +35,5 @@ Diese Zahlen können natürlich nicht wirklich motivieren. Dagegen motiviert mic
 Damit schließe ich diesen Beitrag, der auch nicht zum Jammern da war, sondern einfach nur den Ist-Zustand beleuchten und aufzeigen sollte, was mich motiviert und demotiviert.
 
 Kommentare, Diskussionen oder Rückfragen zu diesem Artikel auch gerne im [RSP-Blogs-Forum](http://forum.rsp-blogs.de/diskussion-und-kommentare/(jcgames)-meine-motivation-als-indieautor/).
-
-Ähnliche Beiträge:
-
-- [Als Selbstverleger zum Millionär]({{ site.baseurl }}/News/Jcgames/2016-06-19/Als-selbstverleger-zum-millionaer)
-- [Auflagenstärke meiner Bücher]({{ site.baseurl }}/Auflagen)
-- [Meine Erfahrungen mit DriveThruRPG]({{ site.baseurl }}/News/Jcgames/2016-01-16/Meine-erfahrungen-mit-drivethrurpg)
 
 

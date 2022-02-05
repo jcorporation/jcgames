@@ -13,8 +13,6 @@ Seit dem 9. Juli ist sie fertig: Die neue SpacePirates HTML5 App, die zugleich f
 
 Für die Zukunft der App will ich eine Verwaltung von NSC und Piratencrews implementieren und dafür auch den Raumschiffkonfigurator auf die App portieren. Gespeichert werden die Daten dann offline auf dem Device mit Synchronisierungsmöglichkeit in die SpacePirates Cloud.
 
-- [SpacePirates HTML5 App](https://jcgames.de/spacepirates/Webapp)
-
 ### Stars und Sternchen
 
 Das kommende Themenheft zu SpacePirates, Stars und Sternchen schreitet auch voran. Mittlerweile haben auch Moritz und Markus Texte beigesteuert und Peter vom Herzlichen will demnächst auch noch Texte liefern. Was momentan noch fehlt ist ein abgedrehtes Abenteuer in den Sphären der Stars.
@@ -22,8 +20,6 @@ Das kommende Themenheft zu SpacePirates, Stars und Sternchen schreitet auch vora
 ### Cons
 
 Im Juli war ich mit einem Stand auf der Feen Con und es war wieder ein Vergnügen den interessierten Besuchern SpacePirates näher zu bringen und mit den Nachbarn vom Zunftblatt rumzualbern. Dieses Jahr habe ich es sogar geschafft zwei Demorunden SpacePirates zu leiten, die beide mit 6 Spielern guten Anklang gefunden haben. Zudem sind jetzt die exklusiven SpacePirates-Würfel ausverkauft.
-
-- [Bilder]({{ site.baseurl }}/Veranstaltungen/Bilder_2012-feencon)
 
 Die nächste Zeit gehe ich dann wieder auf ein paar kleinere Cons in der Umgebung, bei denen ich Demorunden anbieten werde: Palaver Zeltcon, CatCon und die Brain and Dice. Momentan läuft aber auch die Planung für einen Stand auf der Dreieichcon, auf der ich noch nie war.
 
@@ -34,5 +30,3 @@ Für eine Aktualisierung des Weltenbuch-Regel-PDFs hat es leider nicht gereicht.
 ### SpaceCowboys
 
 Mit SpaceCowboys bin ich immer noch nicht recht zufrieden. Da werde ich demnächst noch ein paar Stellschrauben drehen, was das Tierreich angeht, die momentane Mischung aus Dinosaurier und SpaceBüffel, etc gefällt mir noch nicht recht.
-
-

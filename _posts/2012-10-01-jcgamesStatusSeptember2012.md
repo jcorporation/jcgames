@@ -13,7 +13,7 @@ Im PDF zu SpacePirates 2.0.3 sind viele Fehler bereinigt worden, die Bombshell n
 
 ### SpaceCowboys
 
-Im September wurde auch am Setting von SpaceCowboys gearbeitet. Das Setting wurde stringenter gestaltet um mehr Westernfeeling hineinzubekommen. Im nächste Schritt wird an einem Abenteuer für SpaceCowboys gearbeitet, um das Setting endlich mal wieder bespielen zu können. Evtl. gibt es auf den anstehenden [Cons]({{ site.baseurl }}/Veranstaltungen) eine spontane Runde.
+Im September wurde auch am Setting von SpaceCowboys gearbeitet. Das Setting wurde stringenter gestaltet um mehr Westernfeeling hineinzubekommen. Im nächste Schritt wird an einem Abenteuer für SpaceCowboys gearbeitet, um das Setting endlich mal wieder bespielen zu können. Evtl. gibt es auf den anstehenden Cons eine spontane Runde.
 
 ### Das Weltenbuch V2
 
@@ -22,5 +22,3 @@ Die Arbeitet an den Regeln des Weltenbuchs schreiten gut voran und alle wichtige
 ### Cons
 
 In diesem Herbst bin ich noch auf drei Cons anzutreffen. Auf der Brain&amp;Dice und der Dreieich mit einem Stand und auf der ReuCon werde ich eine SpacePirates Runde leiten.
-
-

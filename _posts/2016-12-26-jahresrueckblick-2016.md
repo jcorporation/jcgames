@@ -9,7 +9,7 @@ Schon wieder ist ein Jahr vergangen, Zeit um zurückzublicken und zu rekapitulie
 
 ## Cons
 
-Auch 2016 war ich wieder auf der [RPC]({{ site.baseurl }}/~jcorporation/2016-06-04/Das-war-die-rpc-2016) und der [FeenCon]({{ site.baseurl }}/~jcorporation/2016-07-18/Das-war-die-feencon-2016), zwei Veranstaltungen auf denen ich traditionell einen Stand habe und die meisten Bücher verkaufe. Ich habe aber auch meinen Vorsatz umgesetzt und wieder die kleineren Cons in meiner Umgebung besucht. So war ich auf den beiden [Cat-Cons](http://cat-con.de/), der [ReuCon](http://www.reu-con.de/) und der [Brain and Dice](http://brain-and-dice.de.tl/). Auf den kleinen Cons verkaufe ich zwar quasi keine Bücher, aber für 1 &ndash; 2 nette Spielrunden reicht es eigentlich immer.
+Auch 2016 war ich wieder auf der RPC und der FeenCon, zwei Veranstaltungen auf denen ich traditionell einen Stand habe und die meisten Bücher verkaufe. Ich habe aber auch meinen Vorsatz umgesetzt und wieder die kleineren Cons in meiner Umgebung besucht. So war ich auf den beiden [Cat-Cons](http://cat-con.de/), der [ReuCon](http://www.reu-con.de/) und der [Brain and Dice](http://brain-and-dice.de.tl/). Auf den kleinen Cons verkaufe ich zwar quasi keine Bücher, aber für 1 &ndash; 2 nette Spielrunden reicht es eigentlich immer.
 
 ## Lite
 

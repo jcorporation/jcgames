@@ -10,7 +10,7 @@ Nachdem ich dieses und letztes Jahr nur auf wenigen Cons war, ist jetzt für mic
 - [Brain and Dice](http://www.brain-and-dice.de.tl/) in Heidelberg am Samstag, 1. Oktober
 - [ReuCon](http://www.reu-con.de/) in Reutlingen am Samstag, 8. Oktober
 
-[Hier]({{ site.baseurl }}/Veranstaltungen) pflege ich auch alle Veranstaltungen bei denen es offizielle jcgames Spielrunden oder einen Stand gibt.
+Hier pflege ich auch alle Veranstaltungen bei denen es offizielle jcgames Spielrunden oder einen Stand gibt.
 
 Ich freue mich auf lustige Spielrunden und interessante Gespräche.
 
