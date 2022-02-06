@@ -13,11 +13,20 @@
         <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}/">
           <img src="{{ site.baseurl }}/assets/images/logo.png" alt="jcgames" width="188" height="40">
         </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbar">
+          <div class="navbar-nav flex-grow-1">
+            <a class="nav-link p-2 text-dark" href="/Aktuelles/">Aktuelles</a>
+            <a class="nav-link p-2 text-dark" href="/Kontakt">Kontakt</a>
+          </div>
+        </div>
       </nav>
     </header>
     <header class="navbar navbar-expand-md bg-red text-light py-2 mb-2">
-      <nav class="container-xxl flex-wrap px-3 mb-0">
-        Unter der Indie-Marke jcgames veröffentliche ich meine freien Papier-und-Bleistift-Rollenspiele als kostenlose PDF und kostengünstige Bücher.
+      <nav class="container-xxl flex-wrap px-3 mb-0 justify-content-start">
+        {% include breadcrumbs.md%}
       </nav>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
