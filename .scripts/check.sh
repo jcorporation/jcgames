@@ -26,6 +26,7 @@ while read -r F
 do
     [ "$F" = "./README.md" ] && continue
     [[ "$F" =~ ^./_includes.* ]] && continue
+    [[ "$F" =~ ^./_site.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
 
     # check links
