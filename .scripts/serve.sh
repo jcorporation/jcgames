@@ -1,2 +1,2 @@
 #!/bin/bash
-jekyll serve --livereload --watch
+bundle exec jekyll serve --livereload --watch -H 0.0.0.0
