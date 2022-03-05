@@ -20,7 +20,7 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
         <div class="card bg-spacepirates clickable">
             <div class="card-body card-body-spacepirates"></div>
             <div class="card-footer d-flex justify-content-center card-footer-spacepirates">
-                <a href="https://jcgames.de/spacepirates/" class="link-light">SpacePirates</a>
+                <a href="https://spacepirates.jcgames.de/" class="link-light">SpacePirates</a>
             </div>
         </div>
     </div>
