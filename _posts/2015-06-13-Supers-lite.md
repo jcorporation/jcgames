@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Supers"
+tag: Lite
+permalink: /Aktuelles/2015-06-13-Supers
+---
+
+Das neueste Setting für Lite widmet sich dem Superheldengenre, aber nicht den dunklen, geheimnisvollen, sondern den bunten, comichaften Superhelden in einer niedlichen Kleinstadt. Spiele einen fliegenden Reporter oder eine Superhausfrau!
+
+Das Setting ist fast fertig und ich arbeite gerade an einem kurzen Abenteuer dafür. Einen Einblick könnt ihr [hier](https://lite.jcgames.de/Settings/Supers/) bekommen. Wenn ich schnell genug bin, bringe ich das Setting und das Abenteuer auch zur FeenCon mit.

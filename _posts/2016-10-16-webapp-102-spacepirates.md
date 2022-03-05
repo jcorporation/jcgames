@@ -1,0 +1,8 @@
+---
+layout: post
+title: "WebApp 10.2"
+tag: SpacePirates
+permalink: /Aktuelles/2016-10-16-webapp-102
+---
+
+Die neue Version der SpacePirates WebApp bringt alle aktuellen Texte der Homepage mit. Die interaktive Sternenkarte wurde komplett überarbeitet, die Beschreibung des Weltraums wurde aktualisiert und auch das neueste Abenteuer [Blumenkind](https://spacepirates.jcgames.de/Abenteuer/Blumenkind/) wurde integriert. Auch die Zufallsgeneratoren wurden aktualisiert und haben mit einem Generator für Ereignisse während eines Raumflugs Zuwachs bekommen.

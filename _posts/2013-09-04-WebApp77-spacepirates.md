@@ -1,0 +1,10 @@
+---
+layout: post
+title: "WebApp 7.7"
+tag: SpacePirates
+permalink: /Aktuelles/2013-09-04-WebApp77
+---
+
+Die neueste Version der SpacePirates WebApp fixt einen Bug, bei der Tabwiederherstellung. Die Bilder der App wurden optimiert, so dass die App mal wieder etwas kleiner geworden ist.
+
+Zudem ist auch die 2.2 Version meines HTML5 WebApp Frameworks jcAPP erschienen.

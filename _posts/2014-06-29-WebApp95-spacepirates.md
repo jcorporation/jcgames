@@ -1,0 +1,8 @@
+---
+layout: post
+title: "WebApp 9.5"
+tag: SpacePirates
+permalink: /Aktuelles/2014-06-29-WebApp95
+---
+
+Die neueste Version der SpacePirates WebApp repariert 2 Fehler in der Piraten- und Raumschiffverwaltung.

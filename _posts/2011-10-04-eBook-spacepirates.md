@@ -1,0 +1,18 @@
+---
+layout: post
+title: "eBook"
+tag: SpacePirates
+permalink: /Aktuelles/2011-10-04-eBook
+---
+
+SpacePirates gibt es jetzt auch als eBook, genauer gesagt, im freien EPUB Format. Momentan ist nur das Grundregelwerk verfügbar, wenn es aber auf Resonanz stößt, wird es auch alle anderen PDF Dokumente als eBook geben.
+
+- [eBook herunterladen](https://spacepirates.jcgames.de/Publikationen/)
+
+## Würfel
+
+Es gibt auch noch eine erfreuliche Wasserstandsmeldung bezüglich der limitierten SpacePirates Würfel zu vermelden. Laut Q-Workshop, werden diese morgen versandt. Es ist noch mögliche Würfel vorzubestellen.
+
+- [Würfel vorbestellen](https://spacepirates.jcgames.de/Publikationen/)
+
+

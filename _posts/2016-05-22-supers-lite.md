@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Supers"
+tag: Lite
+permalink: /Aktuelles/2016-05-22-supers
+---
+
+Supers, mein Superheldensetting für Lite, hat ein Update erfahren. Orange City hat nun eine Stadtkarte bekommen und es gibt jetzt auch weitere Schauplätze, die für ein Superheldenabenteuer von Interesse sind. Daneben wurden auch noch ein paar kleinere Fehler bereinigt.
+
+Wer Lite und Supers ausprobieren will, hat auf der [Burg-Con](http://www.easy-con.org/convention/viewevent/BC25/933) die Gelegenheit mit dem Lektor von Lite eine Runde zu spielen.
+
+**[&raquo; Supers herunterladen](https://lite.jcgames.de/Settings/Supers/)**

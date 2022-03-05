@@ -7,11 +7,28 @@ title: Aktuelles
 
 <div class="row row-cols-1 row-cols-md-2 g-4">
 {% for post in paginator.posts %}
+  {% if post.tag == 'SpacePirates' %}
+    {% assign link = 'https://spacepirates.jcgames.de/' %}
+    {% assign bgclass = 'bg-yellow' %}
+    {% assign linkclass = 'link-dark' %}
+  {% elsif post.tag == 'Lite' %}
+    {% assign link = 'https://lite.jcgames.de/' %}
+    {% assign bgclass = 'bg-blue' %}
+    {% assign linkclass = 'link-light' %}
+  {% elsif post.tag == 'Das Weltenbuch' %}
+    {% assign link = 'https://dasweltenbuch.jcgames.de/' %}
+    {% assign bgclass = 'bg-brown' %}
+    {% assign linkclass = 'link-light' %}
+  {% else %}
+    {% assign link = 'https://www.jcgames.de/' %}
+    {% assign bgclass = 'bg-red' %}
+    {% assign linkclass = 'link-light' %}
+  {% endif %}
   <div class="col">
     <div class="card h-100 clickable">
-      <div class="card-header bg-red"><a class="link-light text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
+      <div class="card-header {{ bgclass }}"><a class="{{ linkclass }} text-decoration-none" href="{{ post.url }}">{{ post.title }}</a></div>
       <div class="card-body">{{ post.excerpt }}</div>
-      <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }}</small></div>
+      <div class="card-footer"><small>Geschrieben am {{ post.date | date: "%d.%m.%Y" }} unter <a class="link-dark" href="{{ link }}">{{ post.tag }}</a></small></div>
     </div>
   </div>
 {% endfor %}

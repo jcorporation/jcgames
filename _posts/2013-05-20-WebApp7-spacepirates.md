@@ -1,0 +1,8 @@
+---
+layout: post
+title: "WebApp 7"
+tag: SpacePirates
+permalink: /Aktuelles/2013-05-20-WebApp7
+---
+
+Die neueste Version der SpacePirates App kann jetzt unter Firefox und Chrome direkt installiert werden. Zudem wurden einige kleinere Bugs gefixt.

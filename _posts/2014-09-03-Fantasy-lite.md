@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Fantasy"
+tag: Lite
+permalink: /Aktuelles/2014-09-03-Fantasy
+---
+
+Das vierte Setting für Lite widmet sich dem Fantasygenre. Eben das typische Fantasysetting mit Elfen, Zwerge und Orks. Natürlich auch mit Menschen und weiteren Rassen, wie Halblinge oder Echsenmenschen. Magie und ein mehr oder weniger starker Einfluss der Götter darf natürlich auch nicht fehlen. Diese Settingadaption passt für alle erdenklichen Fantasywelten ist aber wohl für High-Fantasy besser geeignet. Die Charaktere sind meist die wagemutigen Helden dieser Welt, sie streiten für das Gute und erleben spannende Abenteuer, kämpfen gegen Drachen, retten Jungfrauen, dringen in gefährliche Dungeons ein und bergen auch den ein oder anderen Schatz oder wertvolles Artefakt.
+
+**[Fantasy herunterladen](https://lite.jcgames.de/Settings/Fantasy/)**

@@ -53,6 +53,18 @@ a:hover {
   background-color: #d20707;
 }
 
+.bg-yellow {
+  background-color: #ffcc00;
+}
+
+.bg-blue {
+  background-color: #3c80ef;
+}
+
+.bg-brown {
+  background-color: #65472f;
+}
+
 .bg-spacepirates {
   background-image: url("{{ site.baseurl }}/assets/images/bg-spacepirates-titel.png"), url("{{ site.baseurl }}/assets/images/bg-spacepirates.jpg");
   background-position: center bottom;

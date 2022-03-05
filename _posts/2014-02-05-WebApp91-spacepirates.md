@@ -1,0 +1,10 @@
+---
+layout: post
+title: "WebApp 9.1"
+tag: SpacePirates
+permalink: /Aktuelles/2014-02-05-WebApp91
+---
+
+Die neueste Version der SpacePirates WebApp integriert die neuesten Inhalte und bringt einen kleineren Bugfix mit.
+
+- Zufallstabelle [Auswirkungen von Weltraumphänomenen](https://spacepirates.jcgames.de/Zufallstabellen/Auswirkungen_von_Weltraumphänomenen) integriert
