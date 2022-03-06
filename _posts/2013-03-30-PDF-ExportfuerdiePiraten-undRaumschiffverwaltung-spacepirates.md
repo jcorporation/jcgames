@@ -2,7 +2,7 @@
 layout: post
 title: "PDF-Export für die Piraten- und Raumschiffverwaltung"
 tag: SpacePirates
-permalink: /Aktuelles/2013-03-30-PDF-ExportfuerdiePiraten-undRaumschiffverwaltung
+permalink: /Aktuelles/2013-03-30-PDF-ExportfuerdiePiraten-undRaumschiffverwaltung-spacepirates
 ---
 
 Pünktlich zu Ostern hat die Piraten- und Raumschiffverwaltung eine PDF-Export Funktion bekommen. Diese Funktion wird demnächst auch direkt von der WebApp aus erreichbar sein.

@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /Aktuelles/2017-06-16-lite-v2-im-druck-und-vorbestellbar
+permalink: /Aktuelles/2017-06-16-lite-v2-im-druck-und-vorbestellbar-lite
 title: "Lite v2 im Druck und vorbestellbar"
 ---
 

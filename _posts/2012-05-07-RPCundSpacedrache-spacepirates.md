@@ -2,7 +2,7 @@
 layout: post
 title: "RPC und Spacedrache"
 tag: SpacePirates
-permalink: /Aktuelles/2012-05-07-RPCundSpacedrache
+permalink: /Aktuelles/2012-05-07-RPCundSpacedrache-spacepirates
 ---
 
 Die RPC ist vorbei und es hat sich wie jedes Jahr gelohnt nach Köln zu reisen. Viele nette Bekannte getroffen und Spaß am Stand mit meinen Standkumpanen und den Nachbarn der Indie-Insel gehabt. Bilder vom Stand folgen auch noch, dieses mal könnten sie wirklich gut sein, da ich gleich 2 Leute begeistern konnte für mich zu knipsen.

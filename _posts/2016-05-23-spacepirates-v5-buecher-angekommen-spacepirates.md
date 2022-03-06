@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates v5 Bücher angekommen"
 tag: SpacePirates
-permalink: /Aktuelles/2016-05-23-spacepirates-v5-buecher-angekommen
+permalink: /Aktuelles/2016-05-23-spacepirates-v5-buecher-angekommen-spacepirates
 ---
 
 Heute habe ich von der Druckerei die SpacePirates v5 Hardcover und die Sternenkarten abgeholt. Die Druckerei hat wunderbare Arbeit geleistet. Sie sind robust gebunden, schön gedruckt und sind echt kleine Schmöker geworden.

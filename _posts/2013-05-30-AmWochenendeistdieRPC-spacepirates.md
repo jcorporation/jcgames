@@ -2,7 +2,7 @@
 layout: post
 title: "Am Wochenende ist die RPC"
 tag: SpacePirates
-permalink: /Aktuelles/2013-05-30-AmWochenendeistdieRPC
+permalink: /Aktuelles/2013-05-30-AmWochenendeistdieRPC-spacepirates
 ---
 
 

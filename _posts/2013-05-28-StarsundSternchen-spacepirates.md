@@ -2,7 +2,7 @@
 layout: post
 title: "Stars und Sternchen"
 tag: SpacePirates
-permalink: /Aktuelles/2013-05-28-StarsundSternchen
+permalink: /Aktuelles/2013-05-28-StarsundSternchen-spacepirates
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Narrativer Dungeoncrawl"
 tag: Lite
-permalink: /Aktuelles/2016-10-18-narrativer-dungeoncrawl
+permalink: /Aktuelles/2016-10-18-narrativer-dungeoncrawl-lite
 ---
 
 Im [SpacePirates Abenteuer Blumenkind](https://jcgames.de/spacepirates/abenteuer/blumenkind/) kommt in der Endszene ein kleiner Dungeon in Form eines Glashausraumschiffs vor. Dungeons sind eigentlich nichts, was ich gerne spiele: taktisches vorrücken von Raum zu Raum, viele kleine Proben auf Wahrnehmung oder für einen Kampf verbinde ich im klassischen Sinn mit einem Dungeon. Also nichts, was zum angestrebten erzählerischen Spielstil von Lite passt. Auf der ReuCon ist mir aber eine spontane Idee gekommen, wie ich in die [Konfliktszenen](https://lite.jcgames.de/Spielregeln/Konflikte/Konfliktszenen) dafür verwenden kann, um den Dungeon erzählerischer zu gestalten.

@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates im Druck!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-10-03-SpacePiratesimDruck
+permalink: /Aktuelles/2010-10-03-SpacePiratesimDruck-spacepirates
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App - PirateSpace"
 tag: SpacePirates
-permalink: /Aktuelles/2012-08-19-HTML5App-PirateSpace
+permalink: /Aktuelles/2012-08-19-HTML5App-PirateSpace-spacepirates
 ---
 
 Die aktuellste Version der SpacePirates App bringt neben vielen Bugfixes auch einiges an neuen Funktionen mit.

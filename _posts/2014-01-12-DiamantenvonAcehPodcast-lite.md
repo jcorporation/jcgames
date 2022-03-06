@@ -2,7 +2,7 @@
 layout: post
 title: "Diamanten von Aceh Podcast"
 tag: Lite
-permalink: /Aktuelles/2014-01-12-DiamantenvonAcehPodcast
+permalink: /Aktuelles/2014-01-12-DiamantenvonAcehPodcast-lite
 ---
 
 Heute Mittag war ich zu Gast beim [SundayMoaning Cast](http://sundaymoaning.fracker.de/) und habe eine Runde Lite geleitet.

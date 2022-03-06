@@ -2,7 +2,7 @@
 layout: post
 title: "Grundregelwerk"
 tag: Lite
-permalink: /Aktuelles/2013-11-24-Grundregelwerk
+permalink: /Aktuelles/2013-11-24-Grundregelwerk-lite
 ---
 
 

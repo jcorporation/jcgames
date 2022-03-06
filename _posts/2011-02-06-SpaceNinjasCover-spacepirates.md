@@ -2,7 +2,7 @@
 layout: post
 title: "SpaceNinjas Cover"
 tag: SpacePirates
-permalink: /Aktuelles/2011-02-06-SpaceNinjasCover
+permalink: /Aktuelles/2011-02-06-SpaceNinjasCover-spacepirates
 ---
 
 

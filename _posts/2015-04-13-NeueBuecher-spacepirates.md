@@ -2,7 +2,7 @@
 layout: post
 title: "Neue Bücher"
 tag: SpacePirates
-permalink: /Aktuelles/2015-04-13-NeueBuecher
+permalink: /Aktuelles/2015-04-13-NeueBuecher-spacepirates
 ---
 
 

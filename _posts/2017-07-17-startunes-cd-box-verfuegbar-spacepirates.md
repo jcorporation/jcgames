@@ -2,7 +2,7 @@
 layout: post
 title: "StarTunes CD-Box verfügbar"
 tag: SpacePirates
-permalink: /Aktuelles/2017-07-17-startunes-cd-box-verfuegbar
+permalink: /Aktuelles/2017-07-17-startunes-cd-box-verfuegbar-spacepirates
 ---
 
 

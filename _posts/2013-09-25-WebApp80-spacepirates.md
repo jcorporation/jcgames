@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 8.0"
 tag: SpacePirates
-permalink: /Aktuelles/2013-09-25-WebApp80
+permalink: /Aktuelles/2013-09-25-WebApp80-spacepirates
 ---
 
 Die neueste Version der SpacePirates WebApp bringt einige neue Inhalte:

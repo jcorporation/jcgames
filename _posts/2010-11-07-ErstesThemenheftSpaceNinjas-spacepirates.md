@@ -2,7 +2,7 @@
 layout: post
 title: "Erstes Themenheft: SpaceNinjas"
 tag: SpacePirates
-permalink: /Aktuelles/2010-11-07-ErstesThemenheftSpaceNinjas
+permalink: /Aktuelles/2010-11-07-ErstesThemenheftSpaceNinjas-spacepirates
 ---
 
 

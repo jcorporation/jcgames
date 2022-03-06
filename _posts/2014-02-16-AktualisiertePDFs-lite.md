@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisierte PDFs"
 tag: Lite
-permalink: /Aktuelles/2014-02-16-AktualisiertePDFs
+permalink: /Aktuelles/2014-02-16-AktualisiertePDFs-lite
 ---
 
 

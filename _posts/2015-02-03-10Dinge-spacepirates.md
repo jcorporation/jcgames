@@ -2,7 +2,7 @@
 layout: post
 title: "10 Dinge..."
 tag: SpacePirates
-permalink: /Aktuelles/2015-02-03-10Dinge
+permalink: /Aktuelles/2015-02-03-10Dinge-spacepirates
 ---
 
 [10 Dinge](https:/greifenklaue.wordpress.com/2015/02/01/rsp-blog-karneval-10-dinge-eroffnung-und-einladung/) ist das Thema des aktuellen Karnevals der Rollenspielblogs. Ich hab es mir nicht nehmen lassen mich daran zu beteiligen und habe schnell zwei Zufallstabellen zusammengebastelt.

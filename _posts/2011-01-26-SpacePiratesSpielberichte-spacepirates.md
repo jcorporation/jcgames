@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Spielberichte"
 tag: SpacePirates
-permalink: /Aktuelles/2011-01-26-SpacePiratesSpielberichte
+permalink: /Aktuelles/2011-01-26-SpacePiratesSpielberichte-spacepirates
 ---
 
 

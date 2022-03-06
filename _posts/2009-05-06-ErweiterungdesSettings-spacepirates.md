@@ -2,7 +2,7 @@
 layout: post
 title: "Erweiterung des Settings"
 tag: SpacePirates
-permalink: /Aktuelles/2009-05-06-ErweiterungdesSettings
+permalink: /Aktuelles/2009-05-06-ErweiterungdesSettings-spacepirates
 ---
 
 Für dieses PDF-Release wurde vorallem am Setting geschraubt. So wurde die Sternenrepublik Neuchina in Neuasien umbenannt, es gibt weitere intergalaktische Konzerne, wie z.B. UniverseBroadcast. Neben den bekannten Händlern ist es jetzt auch ein Abschnitt über Halunken, mit denen die Charaktere dealen können, enthalten.

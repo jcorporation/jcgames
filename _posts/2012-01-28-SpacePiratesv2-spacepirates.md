@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates v2..."
 tag: SpacePirates
-permalink: /Aktuelles/2012-01-28-SpacePiratesv2
+permalink: /Aktuelles/2012-01-28-SpacePiratesv2-spacepirates
 ---
 
 oder warum SpacePirates eine überarbeitete Auflage benötigt.

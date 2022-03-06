@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Weihnachtsbundle"
 tag: SpacePirates
-permalink: /Aktuelles/2013-12-10-SpacePiratesWeihnachtsbundle
+permalink: /Aktuelles/2013-12-10-SpacePiratesWeihnachtsbundle-spacepirates
 ---
 
 Pünktlich zur Weihnachtszeit gibt es ein SpacePirates Sonderangebot.

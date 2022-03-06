@@ -2,7 +2,7 @@
 layout: post
 title: "Sternenkarte und Aliens"
 tag: SpacePirates
-permalink: /Aktuelles/2008-06-28-SternenkarteundAliens
+permalink: /Aktuelles/2008-06-28-SternenkarteundAliens-spacepirates
 ---
 
 Die Entwicklung des Hintergrunds schreitet voran. Nachdem die letzte Woche die Regeln im Vordergrund standen und die Raumkämpfe und die Ausrüstung weiter ausgearbeitet wurden, wurde in den letzten Tagen der Hintergrund zu SpacePirates genauer definiert.

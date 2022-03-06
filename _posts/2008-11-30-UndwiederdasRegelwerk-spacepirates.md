@@ -2,7 +2,7 @@
 layout: post
 title: "Und wieder das Regelwerk"
 tag: SpacePirates
-permalink: /Aktuelles/2008-11-30-UndwiederdasRegelwerk
+permalink: /Aktuelles/2008-11-30-UndwiederdasRegelwerk-spacepirates
 ---
 
 Und schon wieder wurde am Regelwerk geschraubt, diesmal unter großer Mithilfe von Reinecke. Gute Piloten sind jetzt wesentlich cooler, die Feinde der Charaktere können stärker werden und die Ausrüstungstabellen wurden überarbeitet. Desweiteren wurde das Raumkampfsystem nochmals überarbeitet.

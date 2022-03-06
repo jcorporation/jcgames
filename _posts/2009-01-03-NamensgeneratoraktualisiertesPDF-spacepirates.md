@@ -2,7 +2,7 @@
 layout: post
 title: "Namensgenerator, aktualisiertes PDF"
 tag: SpacePirates
-permalink: /Aktuelles/2009-01-03-NamensgeneratoraktualisiertesPDF
+permalink: /Aktuelles/2009-01-03-NamensgeneratoraktualisiertesPDF-spacepirates
 ---
 
 Hier nun die ersten News im neuen Jahr. Nach dem One-Click-Abenteuer-Generator gibt es auf der SpacePirates Seite auch einen Namensgenerator für Konzerne, Planeten, Aliens und Menschen. Das neue PDF enthält auch die dadurch überarbeiteten Namenstabellen.

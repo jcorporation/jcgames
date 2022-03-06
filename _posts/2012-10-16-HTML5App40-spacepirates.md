@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 4.0"
 tag: SpacePirates
-permalink: /Aktuelles/2012-10-16-HTML5App40
+permalink: /Aktuelles/2012-10-16-HTML5App40-spacepirates
 ---
 
 Die 4.0 Version ist der nächste große Meilenstein der SpacePirates HTML5 App. Das Speicherbackend der App wurde komplett umgeschrieben und vereinheitlicht. Es basiert jetzt auf der LocalStorage-API und nicht mehr auf WebSQL, was die Kompatibilität mit Firefox und dem kommenden Internet Explorer 10 erhöht. In diesen beiden Browsern funktioniert momentan nur die Suche noch nicht offline. Dies soll aber in einer der nächsten Version der App kommen. Zudem wurde auch die Synchronisation verbessert.

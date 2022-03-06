@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisierte PDFs"
 tag: SpacePirates
-permalink: /Aktuelles/2010-02-27-AktualisiertePDFs
+permalink: /Aktuelles/2010-02-27-AktualisiertePDFs-spacepirates
 ---
 
 Im Downloadbereich gibt es jetzt aktualisierte PDFs der Settingbeschreibung, des Regelwerks, des Zeitraub-Abenteuers und der Sternenkarte. Das Regelwerk bietet jetzt weitere Raumschiffmacken und die Settingbeschreibung wurde unter anderem um Techtalk ergänzt.

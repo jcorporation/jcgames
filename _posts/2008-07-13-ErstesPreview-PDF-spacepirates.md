@@ -2,7 +2,7 @@
 layout: post
 title: "Erstes Preview-PDF"
 tag: SpacePirates
-permalink: /Aktuelles/2008-07-13-ErstesPreview-PDF
+permalink: /Aktuelles/2008-07-13-ErstesPreview-PDF-spacepirates
 ---
 
 Im [Downloadbereich](https://spacepirates.jcgames.de/Publikationen/) gibt es das erste Preview-PDF zu SpacePirates. In diesem PDF finden sich alle Texte der SpacePirates Seite wieder und hat natürlich noch genauso viele Lücken wie diese.

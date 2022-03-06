@@ -2,7 +2,7 @@
 layout: post
 title: "DORP-TV Interview"
 tag: SpacePirates
-permalink: /Aktuelles/2013-06-07-DORP-TVInterview
+permalink: /Aktuelles/2013-06-07-DORP-TVInterview-spacepirates
 ---
 
 

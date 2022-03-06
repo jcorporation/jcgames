@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 6.2"
 tag: SpacePirates
-permalink: /Aktuelles/2013-02-11-WebApp62
+permalink: /Aktuelles/2013-02-11-WebApp62-spacepirates
 ---
 
 Die neueste Version der SpacePirates App fixt einige Bugs, bringt Schönheitskorrekturen und unterstützt nun auch das neue Seitenformat des iPhone 5.

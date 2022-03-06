@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates ausverkauft!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-10-28-SpacePiratesausverkauft
+permalink: /Aktuelles/2010-10-28-SpacePiratesausverkauft-spacepirates
 ---
 
 

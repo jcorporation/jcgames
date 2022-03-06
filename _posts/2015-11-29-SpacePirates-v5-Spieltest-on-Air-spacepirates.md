@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates v5 Spieltest on Air"
 tag: SpacePirates
-permalink: /Aktuelles/2015-11-29-SpacePirates-v5-Spieltest-on-Air
+permalink: /Aktuelles/2015-11-29-SpacePirates-v5-Spieltest-on-Air-spacepirates
 ---
 
 Am nächsten Sonntag um 11 Uhr gibt es mal wieder eine SpacePirates-Runde zum Mithören. Ich leite für die Jungs von [Sundaymoaning](http://sundaymoaning.de) ein kurzes Abenteuer und nutze die Gelegenheit natürlich gleich für einen Test von [SpacePirates v5](https://spacepirates.jcgames.de/Spielregeln/).

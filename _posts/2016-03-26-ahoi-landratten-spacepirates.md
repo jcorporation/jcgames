@@ -2,7 +2,7 @@
 layout: post
 title: "Ahoi Landratten!"
 tag: SpacePirates
-permalink: /Aktuelles/2016-03-26-ahoi-landratten
+permalink: /Aktuelles/2016-03-26-ahoi-landratten-spacepirates
 ---
 
 SpacePirates v5 wird langsam aber sicher fertig. Im neuesten Vorschau-PDF wurden jetzt auch die Regeln für Zähigkeit von Ausrüstungsgegenständen aus Lite integriert. Dadurch sind die Personenpanzerungen aus der ersten SpacePirates Version zurückgekehrt.

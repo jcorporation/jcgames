@@ -2,7 +2,7 @@
 layout: post
 title: "SpaceNinjas 1.0.0"
 tag: SpacePirates
-permalink: /Aktuelles/2011-04-10-SpaceNinjas100
+permalink: /Aktuelles/2011-04-10-SpaceNinjas100-spacepirates
 ---
 
 Es ist geschafft, das erste Themenheft zu SpacePirates ist fertig! SpaceNinjas 1.0.0 bietet alles, was man braucht, um die SpacePirates mit SpaceNinjas zu konfrontieren: 

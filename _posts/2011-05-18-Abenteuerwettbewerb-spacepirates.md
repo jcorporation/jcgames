@@ -2,7 +2,7 @@
 layout: post
 title: "Abenteuerwettbewerb"
 tag: SpacePirates
-permalink: /Aktuelles/2011-05-18-Abenteuerwettbewerb
+permalink: /Aktuelles/2011-05-18-Abenteuerwettbewerb-spacepirates
 ---
 
 

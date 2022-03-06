@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 5.2"
 tag: SpacePirates
-permalink: /Aktuelles/2012-12-02-HTML5App52
+permalink: /Aktuelles/2012-12-02-HTML5App52-spacepirates
 ---
 
 Die neueste Version der SpacePirates App bietet eine überarbeitete Startseite, die jetzt hoffentlich wesentlich informativer und nützlicher ist, als in der alten Version. Sie bietet einen schnellen Zugriff auf die neusten Favoriten und Piraten und zeigt den aktuellen Status von PirateSpace an.

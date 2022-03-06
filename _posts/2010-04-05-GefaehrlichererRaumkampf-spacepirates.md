@@ -2,7 +2,7 @@
 layout: post
 title: "Gefährlicherer Raumkampf"
 tag: SpacePirates
-permalink: /Aktuelles/2010-04-05-GefaehrlichererRaumkampf
+permalink: /Aktuelles/2010-04-05-GefaehrlichererRaumkampf-spacepirates
 ---
 
 

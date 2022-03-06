@@ -2,7 +2,7 @@
 layout: post
 title: "Techsprech Tabellen und Generator"
 tag: SpacePirates
-permalink: /Aktuelles/2011-09-18-TechsprechTabellenundGenerator
+permalink: /Aktuelles/2011-09-18-TechsprechTabellenundGenerator-spacepirates
 ---
 
 Für alle, die verrückte Namen und Ideen für technische Artefakte und Gerätschaften suchen, gibt es jetzt die passenden Techsprech-Tabellen und das gleichwertige Online-Tool.

@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates auf der Cat-Con"
 tag: SpacePirates
-permalink: /Aktuelles/2008-08-27-SpacePiratesaufderCat-Con
+permalink: /Aktuelles/2008-08-27-SpacePiratesaufderCat-Con-spacepirates
 ---
 
 Ich werde seit langem wieder auf eine Con gehen und gleich mal eine Beta Testrunde SpacePirates anbieten, gespielt wird am Samstag Spätnachmittag, mit 3&ndash;6 Spieler.

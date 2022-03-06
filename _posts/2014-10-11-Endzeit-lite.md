@@ -2,7 +2,7 @@
 layout: post
 title: "Endzeit"
 tag: Lite
-permalink: /Aktuelles/2014-10-11-Endzeit
+permalink: /Aktuelles/2014-10-11-Endzeit-lite
 ---
 
 

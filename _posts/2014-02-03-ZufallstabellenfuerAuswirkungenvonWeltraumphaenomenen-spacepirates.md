@@ -2,7 +2,7 @@
 layout: post
 title: "Zufallstabellen für Auswirkungen von Weltraumphänomenen"
 tag: SpacePirates
-permalink: /Aktuelles/2014-02-03-ZufallstabellenfuerAuswirkungenvonWeltraumphaenomenen
+permalink: /Aktuelles/2014-02-03-ZufallstabellenfuerAuswirkungenvonWeltraumphaenomenen-spacepirates
 ---
 
 Dies ist ein Beitrag zum Karneval der Rollenspielblogs zum Thema Zufallstabellen: [Forumsthread](http:/forum.rsp-blogs.de/rsp-karneval/zufallstabellen-%28februar-2014%29/), [Auftakt und Einladung](http:/greifenklaue.wordpress.com/2014/02/02/rsp-blog-karneval-auftakt-und-einladung-zufallstabellen/).

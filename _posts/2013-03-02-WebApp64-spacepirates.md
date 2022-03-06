@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 6.4"
 tag: SpacePirates
-permalink: /Aktuelles/2013-03-02-WebApp64
+permalink: /Aktuelles/2013-03-02-WebApp64-spacepirates
 ---
 
 Meine Arbeit an der interaktiven WebApp für SpacePirates ist wieder einen Schritt vorangekommen. In der 6.4 Version können Tabellen mit einem Klick auf die Spaltenüberschriften sortiert werden. Zudem wurde eine Würfelfunktion direkt in die Textansicht eingebaut. Dies bedeutet das angezeigte Zufallstabellen mit einem Klick auf die Tabellenüberschrift ausgewürfelt werden können und im Text vorhandene Würfelangaben mit einem Klick direkt im Text ausgewürfelt werden.

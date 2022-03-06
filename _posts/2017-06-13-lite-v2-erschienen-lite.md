@@ -2,7 +2,7 @@
 layout: post
 title: "Lite v2 erschienen"
 tag: Lite
-permalink: /Aktuelles/2017-06-13-lite-v2-erschienen
+permalink: /Aktuelles/2017-06-13-lite-v2-erschienen-lite
 ---
 
 Nach etwas mehr als zwei Jahren ist nun das finale PDF der zweiten Version von Lite erschienen. Spätestens bis zur FeenCon soll dann auch das Buch erscheinen, der Preis steht noch nicht fest, aber es wird wieder vollfarbig gedruckt und diesmal auch als Hardcover gebunden.

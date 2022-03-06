@@ -2,7 +2,7 @@
 layout: post
 title: "Buttons und Dreieich"
 tag: SpacePirates
-permalink: /Aktuelles/2012-11-13-ButtonsundDreieich
+permalink: /Aktuelles/2012-11-13-ButtonsundDreieich-spacepirates
 ---
 
 <div>

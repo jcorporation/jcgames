@@ -2,7 +2,7 @@
 layout: post
 title: "Keine neue Regel für Lite - Rennen im Rollenspiel"
 tag: Lite
-permalink: /Aktuelles/2014-02-23-KeineneueRegelfuerLite-RennenimRollenspiel
+permalink: /Aktuelles/2014-02-23-KeineneueRegelfuerLite-RennenimRollenspiel-lite
 ---
 
 [Regeln für Rennen im Rollenspiel](http://www.teilzeithelden.de/2014/02/22/rolling-thunder-race-2-0-rennen-im-rollenspiel/) heißt ein aktueller Artikel bei den Teilzeithelden. Ziel der Regeln soll sein, dass man dabei wenig würfeln muss. Meiner Meinung nach wurde das Ziel aber klar verfehlt. Herausgekommen sind dabei eher recht kleinteilige Regeln, die an typische taktische Kampfregeln erinnern.

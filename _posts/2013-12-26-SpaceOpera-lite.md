@@ -2,7 +2,7 @@
 layout: post
 title: "SpaceOpera"
 tag: Lite
-permalink: /Aktuelles/2013-12-26-SpaceOpera
+permalink: /Aktuelles/2013-12-26-SpaceOpera-lite
 ---
 
 

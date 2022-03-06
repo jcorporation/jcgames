@@ -2,7 +2,7 @@
 layout: post
 title: "Supers"
 tag: Lite
-permalink: /Aktuelles/2016-05-22-supers
+permalink: /Aktuelles/2016-05-22-supers-lite
 ---
 
 Supers, mein Superheldensetting für Lite, hat ein Update erfahren. Orange City hat nun eine Stadtkarte bekommen und es gibt jetzt auch weitere Schauplätze, die für ein Superheldenabenteuer von Interesse sind. Daneben wurden auch noch ein paar kleinere Fehler bereinigt.

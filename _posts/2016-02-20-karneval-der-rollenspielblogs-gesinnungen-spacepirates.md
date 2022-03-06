@@ -2,7 +2,7 @@
 layout: post
 title: "Karneval der Rollenspielblogs: Gesinnungen"
 tag: SpacePirates
-permalink: /Aktuelles/2016-02-20-karneval-der-rollenspielblogs-gesinnungen
+permalink: /Aktuelles/2016-02-20-karneval-der-rollenspielblogs-gesinnungen-spacepirates
 ---
 
 Im Februar 2016 geht es im Karneval der Rollenspielblogs um das Thema Gesinnungen. Den Startbeitrag findet ihr [hier](http:/neueabenteuer.com/gesinnungen/) und [hier](http:/forum.rsp-blogs.de/rsp-karneval/gesinnungen-%28febuary-2016%29/) gibt es den passenden Thread im Forum.

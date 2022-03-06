@@ -2,7 +2,7 @@
 layout: post
 title: "Robin"
 tag: Lite
-permalink: /Aktuelles/2016-09-23-robin
+permalink: /Aktuelles/2016-09-23-robin-lite
 ---
 
 Robin ist das neueste Setting für Lite. Wie der Name schon sagt, ist dieses Setting eine Robin Hood Adaption. Dieses Setting basiert auf dem [Robin Hood Rollenspiel von Ludus Leonis](http://ludus-leonis.com/robin/) und enthält daher auch nur die nötigen Regeln für Lite.

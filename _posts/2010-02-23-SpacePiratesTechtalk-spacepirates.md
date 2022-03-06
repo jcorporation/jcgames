@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Techtalk!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-02-23-SpacePiratesTechtalk
+permalink: /Aktuelles/2010-02-23-SpacePiratesTechtalk-spacepirates
 ---
 
 

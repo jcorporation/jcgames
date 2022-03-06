@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Statusbericht"
 tag: SpacePirates
-permalink: /Aktuelles/2011-08-17-SpacePiratesStatusbericht
+permalink: /Aktuelles/2011-08-17-SpacePiratesStatusbericht-spacepirates
 ---
 
 Nachdem es mit dem Atlanter vs. Spaceamazonen-Themenheft etwas schleppend voran geht (ich habe einfach keine zündende Idee für Abenteuer), habe ich mich wieder der SpacePirates App und den Online-Tools gewidmet. Die technische Basis der Online-Tools wurde komplett überarbeitet und die SpacePirates App für Tablets wurde auch wieder aktualisiert, ist aber immer noch als experimentell anzusehen.

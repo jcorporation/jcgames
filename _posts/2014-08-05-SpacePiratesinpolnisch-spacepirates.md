@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates in Polnisch"
 tag: SpacePirates
-permalink: /Aktuelles/2014-08-05-SpacePiratesinpolnisch
+permalink: /Aktuelles/2014-08-05-SpacePiratesinpolnisch-spacepirates
 ---
 
 

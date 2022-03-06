@@ -2,7 +2,7 @@
 layout: post
 title: "Piratenklatschgenerator"
 tag: SpacePirates
-permalink: /Aktuelles/2009-07-18-Piratenklatschgenerator
+permalink: /Aktuelles/2009-07-18-Piratenklatschgenerator-spacepirates
 ---
 
 

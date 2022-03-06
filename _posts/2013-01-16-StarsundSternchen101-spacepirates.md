@@ -2,7 +2,7 @@
 layout: post
 title: "Stars und Sternchen 1.0.1"
 tag: SpacePirates
-permalink: /Aktuelles/2013-01-16-StarsundSternchen101
+permalink: /Aktuelles/2013-01-16-StarsundSternchen101-spacepirates
 ---
 
 <div>

@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates in der SpielxPress"
 tag: SpacePirates
-permalink: /Aktuelles/2010-12-09-SpacePiratesinderSpielxPress
+permalink: /Aktuelles/2010-12-09-SpacePiratesinderSpielxPress-spacepirates
 ---
 
 

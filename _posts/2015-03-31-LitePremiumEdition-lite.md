@@ -2,7 +2,7 @@
 layout: post
 title: "Lite Premium Edition"
 tag: Lite
-permalink: /Aktuelles/2015-03-31-LitePremiumEdition
+permalink: /Aktuelles/2015-03-31-LitePremiumEdition-lite
 ---
 
 Das erste Stretchgoal ist erreicht, mir liegen nun 20 Vorbestellungen vor und die Lite Premium Edition wird daher ein vollfarbiges A5 Hardcover mit 68 Innenseiten und Fadenheftung.

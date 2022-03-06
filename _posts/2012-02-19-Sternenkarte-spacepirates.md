@@ -2,7 +2,7 @@
 layout: post
 title: "Sternenkarte"
 tag: SpacePirates
-permalink: /Aktuelles/2012-02-19-Sternenkarte
+permalink: /Aktuelles/2012-02-19-Sternenkarte-spacepirates
 ---
 
 

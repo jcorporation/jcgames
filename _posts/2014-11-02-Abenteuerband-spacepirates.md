@@ -2,7 +2,7 @@
 layout: post
 title: "Abenteuerband"
 tag: SpacePirates
-permalink: /Aktuelles/2014-11-02-Abenteuerband
+permalink: /Aktuelles/2014-11-02-Abenteuerband-spacepirates
 ---
 
 Ich arbeite gerade an einer neuen SpacePirates Publikation: Ein Abenteuersammelband. Er wird alle Abenteuer für SpacePirates enthalten, die nicht in den Themenheften erschienen sind. Dafür überarbeite ich gerade nochmals jedes Abenteuer und die ersten sieben sind schon überarbeitet. Zeit also für eine Vorschau auf den Sammelband, der zur RPC 2015 gedruckt erscheinen soll.

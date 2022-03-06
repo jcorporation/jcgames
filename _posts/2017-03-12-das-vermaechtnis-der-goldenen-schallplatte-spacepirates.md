@@ -2,7 +2,7 @@
 layout: post
 title: "Das Vermächtnis der goldenen Schallplatte"
 tag: SpacePirates
-permalink: /Aktuelles/2017-03-12-das-vermaechtnis-der-goldenen-schallplatte
+permalink: /Aktuelles/2017-03-12-das-vermaechtnis-der-goldenen-schallplatte-spacepirates
 ---
 
 Passend zu [StarTunes](https://spacepirates.jcgames.de/StarTunes/), dem SpacePirates Soundtrack, gibt es jetzt auch ein neues Abenteuer mit dem Titel &bdquo;Das Vermächtnis der goldenen Schallplatte&ldquo;.

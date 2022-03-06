@@ -2,7 +2,7 @@
 layout: post
 title: "Supers und die Superkräfte"
 tag: Lite
-permalink: /Aktuelles/2016-06-12-supers-und-die-superkraefte
+permalink: /Aktuelles/2016-06-12-supers-und-die-superkraefte-lite
 ---
 
 Nachdem [Belchion](http://belchion.rsp-blogs.de/) Supers auf der Burg-Con getestet hat, sind ein paar seiner Anpassungen in das Setting eingeflossen. Jede Superkraft ist jetzt an eine frei wählbare Bedingung für ihren Einsatz geknüpft, man muss z.B. eine Boybuilder-Pose machen um unverwundbar zu sein.

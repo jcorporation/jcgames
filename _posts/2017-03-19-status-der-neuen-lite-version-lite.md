@@ -2,7 +2,7 @@
 layout: post
 title: "Status der neuen Lite Version"
 tag: Lite
-permalink: /Aktuelles/2017-03-19-status-der-neuen-lite-version
+permalink: /Aktuelles/2017-03-19-status-der-neuen-lite-version-lite
 ---
 
 Es ist schon etwas her, dass ich über die Weiterentwicklung der Lite Spielregeln geschrieben habe, eingeschlafen ist die Entwicklung nicht, aber ab und an müssen Texte einfach etwas ruhen, um sie neu zu beurteilen und überarbeiten zu können.

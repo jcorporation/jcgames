@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Hardcover"
 tag: SpacePirates
-permalink: /Aktuelles/2012-04-26-SpacePiratesHardcover
+permalink: /Aktuelles/2012-04-26-SpacePiratesHardcover-spacepirates
 ---
 
 Das brandneue SpacePirates Hardcover inklusive der A3 Sternenkarte ist nun verfügbar. Es kostet 15 &euro; inklusive Versand und kann per Mail an mail@jcgames.de bestellt werden oder direkt auf der RPC (Halle 10.2, Stand C-060) bei mir erworben werden.

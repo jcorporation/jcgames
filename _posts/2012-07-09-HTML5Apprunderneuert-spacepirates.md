@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App runderneuert"
 tag: SpacePirates
-permalink: /Aktuelles/2012-07-09-HTML5Apprunderneuert
+permalink: /Aktuelles/2012-07-09-HTML5Apprunderneuert-spacepirates
 ---
 
 

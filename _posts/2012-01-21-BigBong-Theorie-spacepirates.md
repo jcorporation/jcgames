@@ -2,7 +2,7 @@
 layout: post
 title: "BigBong-Theorie"
 tag: SpacePirates
-permalink: /Aktuelles/2012-01-21-BigBong-Theorie
+permalink: /Aktuelles/2012-01-21-BigBong-Theorie-spacepirates
 ---
 
 Die Vorschau auf das BigBong-Theorie Themenheft ist nun auf stolze 32 Seiten angewachsen und enthält nun das Abenteuer Buschraub. Somit enthält das Themenheft jetzt alles, was geplant ist und geht nun in die finale Überarbeitung, bevor es layoutet und gedruckt wird. Am Cover für das Heft wird auch schon gearbeitet.

@@ -2,7 +2,7 @@
 layout: post
 title: "Grundregelwerk fast fertig"
 tag: Lite
-permalink: /Aktuelles/2014-12-26-Grundregelwerkfastfertig
+permalink: /Aktuelles/2014-12-26-Grundregelwerkfastfertig-lite
 ---
 
 Das Lite Grundregelwerk wurde komplett lektoriert, hier nochmals ein großes Dankeschön an Belchion.

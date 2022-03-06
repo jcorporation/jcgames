@@ -2,7 +2,7 @@
 layout: post
 title: "App im Firefox Marketplace"
 tag: SpacePirates
-permalink: /Aktuelles/2012-12-01-AppimFirefoxMarketplace
+permalink: /Aktuelles/2012-12-01-AppimFirefoxMarketplace-spacepirates
 ---
 
 

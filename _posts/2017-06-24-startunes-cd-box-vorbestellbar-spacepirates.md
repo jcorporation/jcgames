@@ -2,7 +2,7 @@
 layout: post
 title: "StarTunes CD-Box vorbestellbar"
 tag: SpacePirates
-permalink: /Aktuelles/2017-06-24-startunes-cd-box-vorbestellbar
+permalink: /Aktuelles/2017-06-24-startunes-cd-box-vorbestellbar-spacepirates
 ---
 
 [StarTunes](https://spacepirates.jcgames.de/StarTunes/) ist der offizielle Soundtrack für SpacePirates. Anlässlich der FeenCon produziere ich 25 CDs in einer edlen CD-Box für alle SpacePirates-Musikliebhaber, die CD kann auch schon [vorbestellt](https://spacepirates.jcgames.de/Publikationen/) werden.

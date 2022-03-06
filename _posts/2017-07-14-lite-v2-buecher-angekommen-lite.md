@@ -2,7 +2,7 @@
 layout: post
 title: "Lite v2 Bücher angekommen"
 tag: Lite
-permalink: /Aktuelles/2017-07-14-lite-v2-buecher-angekommen
+permalink: /Aktuelles/2017-07-14-lite-v2-buecher-angekommen-lite
 ---
 
 

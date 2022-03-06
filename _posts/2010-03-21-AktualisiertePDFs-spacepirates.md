@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisierte PDFs"
 tag: SpacePirates
-permalink: /Aktuelles/2010-03-21-AktualisiertePDFs
+permalink: /Aktuelles/2010-03-21-AktualisiertePDFs-spacepirates
 ---
 
 Im Downloadbereich gibt es jetzt aktualisierte PDFs der Settingbeschreibung, des Regelwerks, des Zeitraub-Abenteuers und der Sternenkarte. Das Regelwerk bietet jetzt Macken für Piraten und ein vereinfachtes Konfliktsystem. Die Settingbeschreibung und Sternenkarte wurde unter anderem um neue Weltraumphänomene, wie lila Löcher mit Plasmaregenbögen ergänzt.

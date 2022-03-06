@@ -2,7 +2,7 @@
 layout: post
 title: "Online-Spielbrett"
 tag: Lite
-permalink: /Aktuelles/2015-01-05-Online-Spielbrett
+permalink: /Aktuelles/2015-01-05-Online-Spielbrett-lite
 ---
 
 Das Online-Spielbrett für Lite bietet unterstützende Funktionen für das Spielen von Lite in einer Online-Runde.

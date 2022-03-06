@@ -2,7 +2,7 @@
 layout: post
 title: "Pulp Quadrat"
 tag: Lite
-permalink: /Aktuelles/2015-07-19-PulpQuadrat
+permalink: /Aktuelles/2015-07-19-PulpQuadrat-lite
 ---
 
 Nachdem ich mir für Lite vorgenommen habe mehr direkt spielbares Material zu produzieren arbeite ich nun an einem eigenständigen Pulp Setting mit dem bezeichnenden Namen Pulp Quadrat.

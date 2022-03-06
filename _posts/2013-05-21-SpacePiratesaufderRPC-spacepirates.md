@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates auf der RPC"
 tag: SpacePirates
-permalink: /Aktuelles/2013-05-21-SpacePiratesaufderRPC
+permalink: /Aktuelles/2013-05-21-SpacePiratesaufderRPC-spacepirates
 ---
 
 Auch dieses Jahr bin ich mit SpacePirates auf der [RPC](http:/www.rpc-germany.de) vertreten. Zusammen mit der [Anduin](http:/www.anduin-fanzine.de/) und [Ludus Leonis](http:/www.ludus-leonis.com/) halte ich die Indie-Flagge hoch, da es leider keine Indie-Insel geben wird.

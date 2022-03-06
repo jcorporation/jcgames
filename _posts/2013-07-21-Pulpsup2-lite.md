@@ -2,7 +2,7 @@
 layout: post
 title: "Pulp&sup2;"
 tag: Lite
-permalink: /Aktuelles/2013-07-21-Pulpsup2
+permalink: /Aktuelles/2013-07-21-Pulpsup2-lite
 ---
 
 

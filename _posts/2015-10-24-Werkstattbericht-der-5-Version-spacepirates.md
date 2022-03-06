@@ -2,7 +2,7 @@
 layout: post
 title: "Werkstattbericht der 5. Version"
 tag: SpacePirates
-permalink: /Aktuelles/2015-10-24-Werkstattbericht-der-5-Version
+permalink: /Aktuelles/2015-10-24-Werkstattbericht-der-5-Version-spacepirates
 ---
 
 Knapp einen Monat ist es her, dass ich vollmundig den Start der Arbeiten an der fünften Version von SpacePirates angekündigt habe. Seitdem hat sich schon einiges getan.

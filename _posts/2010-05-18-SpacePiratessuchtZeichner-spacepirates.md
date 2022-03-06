@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates sucht Zeichner!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-05-18-SpacePiratessuchtZeichner
+permalink: /Aktuelles/2010-05-18-SpacePiratessuchtZeichner-spacepirates
 ---
 
 

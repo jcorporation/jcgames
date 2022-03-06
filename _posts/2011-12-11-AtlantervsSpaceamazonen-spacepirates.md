@@ -2,7 +2,7 @@
 layout: post
 title: "Atlanter vs Spaceamazonen"
 tag: SpacePirates
-permalink: /Aktuelles/2011-12-11-AtlantervsSpaceamazonen
+permalink: /Aktuelles/2011-12-11-AtlantervsSpaceamazonen-spacepirates
 ---
 
 <p>Eure Piraten sind als Möchtegern gestartet, haben Zeitmaschinen gestohlen, Schätze geraubt und sich gegen die SpaceNinjas durchgesetzt. Sie sind sogar im Holo-Highscore auf Two-Eyed-Jack auf die vorderen Plätze vorgerückt, sodass sie jetzt auf der Suche nach neuen, größeren Abenteuern sind.<br/>

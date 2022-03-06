@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates auf der RPC"
 tag: SpacePirates
-permalink: /Aktuelles/2011-05-01-SpacePiratesaufderRPC
+permalink: /Aktuelles/2011-05-01-SpacePiratesaufderRPC-spacepirates
 ---
 
 Kommendes Wochenende ist es soweit, die RPC öffnet ihre Pforten und natürlich ist auch SpacePirates dabei. Das SpacePirates-Material ist gepackt und wartet darauf am Stand der Indie-Insel unter die Leute gebracht zu werden. Neben dem ersten Themenheft SpaceNinjas wird es dort die auf 15 Exemplare limitierte SpacePirates Box zu kaufen geben. Zusätzlich werde ich auch das letzte Exemplar meines Weltenbuch-Rollenspiels und, dank der Druckerei, auch noch 6 exklusive SpacePirates Hardcover dabei haben. Die coolen SpacePirates Buttons und einen Stapel Sternenkarten auf Bilderdruckkarton werden das Portfolio vollenden.

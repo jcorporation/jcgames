@@ -2,7 +2,7 @@
 layout: post
 title: "Die Zukunft"
 tag: Lite
-permalink: /Aktuelles/2013-10-09-DieZukunft
+permalink: /Aktuelles/2013-10-09-DieZukunft-lite
 ---
 
 

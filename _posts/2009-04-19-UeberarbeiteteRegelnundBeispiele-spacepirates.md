@@ -2,7 +2,7 @@
 layout: post
 title: "Überarbeitete Regeln und Beispiele"
 tag: SpacePirates
-permalink: /Aktuelles/2009-04-19-UeberarbeiteteRegelnundBeispiele
+permalink: /Aktuelles/2009-04-19-UeberarbeiteteRegelnundBeispiele-spacepirates
 ---
 
 In diesem Release wurde das Konfliktsystem nochmals überarbeitet, in diesem Zuge wurde es auch gleich mit 2 Beispielen ausgestattet. Die Überarbeitung der Schadensregeln für Raumschiffe ist nun mit diesem Release abgeschlossen, daraus resultiert auch ein neuer Raumschiffbogen. Neben diesen Regeländerungen gibt es nun auch 4 Beispielcharaktere und ein Beispielraumschiff.

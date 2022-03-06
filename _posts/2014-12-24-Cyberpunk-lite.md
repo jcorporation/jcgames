@@ -2,7 +2,7 @@
 layout: post
 title: "Cyberpunk"
 tag: Lite
-permalink: /Aktuelles/2014-12-24-Cyberpunk
+permalink: /Aktuelles/2014-12-24-Cyberpunk-lite
 ---
 
 Das neueste Setting für Lite widmet sich dem Cyberpunk-Genre:

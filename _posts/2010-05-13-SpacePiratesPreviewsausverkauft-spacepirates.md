@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Previews ausverkauft"
 tag: SpacePirates
-permalink: /Aktuelles/2010-05-13-SpacePiratesPreviewsausverkauft
+permalink: /Aktuelles/2010-05-13-SpacePiratesPreviewsausverkauft-spacepirates
 ---
 
 

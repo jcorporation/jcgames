@@ -2,7 +2,7 @@
 layout: post
 title: "In the Shadows"
 tag: Lite
-permalink: /Aktuelles/2015-02-08-IntheShadows
+permalink: /Aktuelles/2015-02-08-IntheShadows-lite
 ---
 
 Die Shadowrun Konvertierung für Lite ist nun auch auf der Homepage integriert und es gibt davon auch ein PDF. Nochmal ein Danke an ManuFS für die Konvertierung.

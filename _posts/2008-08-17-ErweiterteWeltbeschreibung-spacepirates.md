@@ -2,7 +2,7 @@
 layout: post
 title: "Erweiterte Weltbeschreibung"
 tag: SpacePirates
-permalink: /Aktuelles/2008-08-17-ErweiterteWeltbeschreibung
+permalink: /Aktuelles/2008-08-17-ErweiterteWeltbeschreibung-spacepirates
 ---
 
 Für das neueste PDF Release von SpacePirates wurde wieder kräftig am Setting gearbeitet. Wie auch in den vorigen Releases ist immer noch alles Work-In-Progress. Die Planeten bekommen gerade Infokästen mit Fakten. Es sind Raumstationen und Piratentreffpunkte dazugekommen, es gibt neue Abschnitte über Militär und Handel und die Informationen zu den Menschen und Aliens wurden erweitert. Im Regelteil wurde der Verfolgungsstatus weiter ausgearbeitet und jeder Planet wird nun auch einen Verfolgungswert besitzen.

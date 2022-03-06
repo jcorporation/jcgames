@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Setting und überarbeitetes Grundregelwerk"
 tag: Lite
-permalink: /Aktuelles/2014-12-29-NeuesSettingundueberarbeitetesGrundregelwerk
+permalink: /Aktuelles/2014-12-29-NeuesSettingundueberarbeitetesGrundregelwerk-lite
 ---
 
 Ich war auch an den Weihnachtsfeiertagen fleißig und daher gibt es schon wieder Neuigkeiten zu Lite.

@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisierte SpacePirates PDFs"
 tag: SpacePirates
-permalink: /Aktuelles/2012-03-24-AktualisierteSpacePiratesPDFs
+permalink: /Aktuelles/2012-03-24-AktualisierteSpacePiratesPDFs-spacepirates
 ---
 
 Die NSC- und Raumschifftabellen der Abenteuer im Grundregelwerk und in den Themenheften wurden angeglichen und um fehlende Werte ergänzt. Zudem wurde noch einige kleinere Fehler ausgebessert.

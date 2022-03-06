@@ -2,7 +2,7 @@
 layout: post
 title: "Lite in neuem Layout"
 tag: Lite
-permalink: /Aktuelles/2014-08-02-LiteinneuemLayout
+permalink: /Aktuelles/2014-08-02-LiteinneuemLayout-lite
 ---
 
 

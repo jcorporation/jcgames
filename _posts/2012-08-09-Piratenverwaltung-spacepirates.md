@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App: Piratenverwaltung und Ausblick"
 tag: SpacePirates
-permalink: /Aktuelles/2012-08-09-Piratenverwaltung
+permalink: /Aktuelles/2012-08-09-Piratenverwaltung-spacepirates
 ---
 
 Die neueste Version der SpacePirates HTML5 App bietet nun auch eine Piratenverwaltung. Momentan können Piraten erstellt, verwaltet und offline gespeichert werden. Natürlich berücksichtigt das Tool die aktuellen Piratenerschaffungsregeln.

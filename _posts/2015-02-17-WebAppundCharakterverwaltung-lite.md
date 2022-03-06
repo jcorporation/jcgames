@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp und Charakterverwaltung"
 tag: Lite
-permalink: /Aktuelles/2015-02-17-WebAppundCharakterverwaltung
+permalink: /Aktuelles/2015-02-17-WebAppundCharakterverwaltung-lite
 ---
 
 Die Lite WebApp wurde aktualisiert und enthält jetzt auch das Setting &bdquo;[In the Shadows](https://lite.jcgames.de/Settings/In_the_Shadows/)&ldquo; und das Abenteuer &bdquo;[Schatten über Innsmouth](https://lite.jcgames.de/Settings/80ies/Abenteuer/Schatten_über_Innsmouth/)&ldquo;.

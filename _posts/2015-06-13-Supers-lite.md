@@ -2,7 +2,7 @@
 layout: post
 title: "Supers"
 tag: Lite
-permalink: /Aktuelles/2015-06-13-Supers
+permalink: /Aktuelles/2015-06-13-Supers-lite
 ---
 
 Das neueste Setting für Lite widmet sich dem Superheldengenre, aber nicht den dunklen, geheimnisvollen, sondern den bunten, comichaften Superhelden in einer niedlichen Kleinstadt. Spiele einen fliegenden Reporter oder eine Superhausfrau!

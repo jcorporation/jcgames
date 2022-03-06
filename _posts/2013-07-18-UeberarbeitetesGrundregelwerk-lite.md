@@ -2,7 +2,7 @@
 layout: post
 title: "Überarbeitetes Grundregelwerk"
 tag: Lite
-permalink: /Aktuelles/2013-07-18-UeberarbeitetesGrundregelwerk
+permalink: /Aktuelles/2013-07-18-UeberarbeitetesGrundregelwerk-lite
 ---
 
 Das Lite Grundregelwerk wurde jetzt nach dem ersten Spieltest überarbeitet, um im nächsten Spieltest wieder auf Herz und Nieren geprüft zu werden.

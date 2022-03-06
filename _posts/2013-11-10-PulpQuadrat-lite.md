@@ -2,7 +2,7 @@
 layout: post
 title: "Pulp"
 tag: Lite
-permalink: /Aktuelles/2013-11-10-PulpQuadrat
+permalink: /Aktuelles/2013-11-10-PulpQuadrat-lite
 ---
 
 <h2>Pulp<sup>2</sup></h2>

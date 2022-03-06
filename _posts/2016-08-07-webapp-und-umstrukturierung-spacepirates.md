@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp und Umstrukturierung"
 tag: SpacePirates
-permalink: /Aktuelles/2016-08-07-webapp-und-umstrukturierung
+permalink: /Aktuelles/2016-08-07-webapp-und-umstrukturierung-spacepirates
 ---
 
 Mit dem Erscheinen der WebApp in der Version 10.1 ist auch die Umstrukturierung der Webseite abgeschlossen.

@@ -2,7 +2,7 @@
 layout: post
 title: "Der Weg zur 1.0"
 tag: SpacePirates
-permalink: /Aktuelles/2010-05-20-DerWegzur10
+permalink: /Aktuelles/2010-05-20-DerWegzur10-spacepirates
 ---
 
 Der Weg zur 1.0 ist hart und steinig. Hilf mit, dass ihn SpacePirates bis Oktober diesen Jahres gehen kann! Wie erfährst du auf der Statusseite und auch im passenden [Forumsthread](http:/tanelorn.net/.php/topic,55360.0.html).

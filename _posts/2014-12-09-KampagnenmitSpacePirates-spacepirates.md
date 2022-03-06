@@ -2,7 +2,7 @@
 layout: post
 title: "Kampagnen mit SpacePirates"
 tag: SpacePirates
-permalink: /Aktuelles/2014-12-09-KampagnenmitSpacePirates
+permalink: /Aktuelles/2014-12-09-KampagnenmitSpacePirates-spacepirates
 ---
 
 Für den SpacePirates Abenteuerband sind jetzt auch die Tipps und Ideen zum Spielen einer kurzen SpacePirates Kampagne fertig.

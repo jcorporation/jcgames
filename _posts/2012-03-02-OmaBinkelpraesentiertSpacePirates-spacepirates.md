@@ -2,7 +2,7 @@
 layout: post
 title: "Oma Binkel präsentiert SpacePirates"
 tag: SpacePirates
-permalink: /Aktuelles/2012-03-02-OmaBinkelpraesentiertSpacePirates
+permalink: /Aktuelles/2012-03-02-OmaBinkelpraesentiertSpacePirates-spacepirates
 ---
 
 

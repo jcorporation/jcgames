@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 7.7"
 tag: SpacePirates
-permalink: /Aktuelles/2013-09-04-WebApp77
+permalink: /Aktuelles/2013-09-04-WebApp77-spacepirates
 ---
 
 Die neueste Version der SpacePirates WebApp fixt einen Bug, bei der Tabwiederherstellung. Die Bilder der App wurden optimiert, so dass die App mal wieder etwas kleiner geworden ist.

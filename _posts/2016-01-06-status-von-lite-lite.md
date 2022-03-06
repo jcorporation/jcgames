@@ -2,7 +2,7 @@
 layout: post
 title: "Status von Lite"
 tag: Lite
-permalink: /Aktuelles/2016-01-06-status-von-lite
+permalink: /Aktuelles/2016-01-06-status-von-lite-lite
 ---
 
 Nachdem ich hier schon seit ein paar Monaten nichts mehr geschrieben habe, wird es mal wieder Zeit. Lite ist nämlich alles andere als inaktiv oder tot. Vielmehr bin ich dabei [&raquo;SpacePirates&laquo;](https://lite.jcgames.de/Settings/SpacePirates/) und [&raquo;Das Weltenbuch&laquo;](https://lite.jcgames.de/Settings/Das_Weltenbuch/) auf die Lite Regeln umzustellen.

@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Bundle"
 tag: SpacePirates
-permalink: /Aktuelles/2016-06-11-spacepirates-bundle
+permalink: /Aktuelles/2016-06-11-spacepirates-bundle-spacepirates
 ---
 
 Wer nicht genug von SpacePirates bekommen kann, hat jetzt die Möglichkeit alle Hardcover von SpacePirates zu einem ultragünstigen Preis auf einmal zu erwerben. Das SpacePirates Bundle beinhaltet das Grundregelwerk, die Sternenkarte, den Abenteuerband und den Themenhefte Sammelband, mehr SpacePirates gibt es momentan nicht.

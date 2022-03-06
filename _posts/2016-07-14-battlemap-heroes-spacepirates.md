@@ -2,7 +2,7 @@
 layout: post
 title: "Battlemap Heroes"
 tag: SpacePirates
-permalink: /Aktuelles/2016-07-14-battlemap-heroes
+permalink: /Aktuelles/2016-07-14-battlemap-heroes-spacepirates
 ---
 
 Markus von Ludus Leonis hat eine kleine Battlemap Heroes Mission im Universum von SpacePirates geschrieben. Wer schon immer mal SpacePirates im Stil des ursprünglichen Hero Quests spielen wollte, sollte das dringendst antesten.

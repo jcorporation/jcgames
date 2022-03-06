@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates HTML5 App"
 tag: SpacePirates
-permalink: /Aktuelles/2010-10-10-SpacePiratesHTML5App
+permalink: /Aktuelles/2010-10-10-SpacePiratesHTML5App-spacepirates
 ---
 
 

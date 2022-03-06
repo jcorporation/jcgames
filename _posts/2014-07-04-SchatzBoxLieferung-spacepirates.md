@@ -2,7 +2,7 @@
 layout: post
 title: "Schatz.Box Lieferung"
 tag: SpacePirates
-permalink: /Aktuelles/2014-07-04-SchatzBoxLieferung
+permalink: /Aktuelles/2014-07-04-SchatzBoxLieferung-spacepirates
 ---
 
 Heute kamen die SpacePirates Schatzboxen bei mir an!

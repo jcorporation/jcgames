@@ -2,7 +2,7 @@
 layout: post
 title: "Lite Magie"
 tag: Lite
-permalink: /Aktuelles/2014-08-16-LiteMagie
+permalink: /Aktuelles/2014-08-16-LiteMagie-lite
 ---
 
 

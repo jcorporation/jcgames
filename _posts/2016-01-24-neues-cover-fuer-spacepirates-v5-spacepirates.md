@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Cover für SpacePirates v5"
 tag: SpacePirates
-permalink: /Aktuelles/2016-01-24-neues-cover-fuer-spacepirates-v5
+permalink: /Aktuelles/2016-01-24-neues-cover-fuer-spacepirates-v5-spacepirates
 ---
 
 

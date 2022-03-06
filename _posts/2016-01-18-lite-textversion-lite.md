@@ -2,7 +2,7 @@
 layout: post
 title: "Lite Textversion"
 tag: Lite
-permalink: /Aktuelles/2016-01-18-lite-textversion
+permalink: /Aktuelles/2016-01-18-lite-textversion-lite
 ---
 
 [Belchion](http://belchion.rsp-blogs.de/), der Lektor von Lite, war fleißig und hat das Lite Grundregelwerk in ein reines Textformat gebracht. So kann es leichter als Basis für andere Werke genutzt werden.

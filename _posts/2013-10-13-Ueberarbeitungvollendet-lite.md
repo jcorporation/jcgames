@@ -2,7 +2,7 @@
 layout: post
 title: "Überarbeitung vollendet"
 tag: Lite
-permalink: /Aktuelles/2013-10-13-Ueberarbeitungvollendet
+permalink: /Aktuelles/2013-10-13-Ueberarbeitungvollendet-lite
 ---
 
 

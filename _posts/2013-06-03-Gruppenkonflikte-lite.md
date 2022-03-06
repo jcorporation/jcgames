@@ -2,7 +2,7 @@
 layout: post
 title: "Gruppenkonflikte"
 tag: Lite
-permalink: /Aktuelles/2013-06-03-Gruppenkonflikte
+permalink: /Aktuelles/2013-06-03-Gruppenkonflikte-lite
 ---
 
 

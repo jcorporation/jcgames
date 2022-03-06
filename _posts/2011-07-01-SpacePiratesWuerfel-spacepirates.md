@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Würfel"
 tag: SpacePirates
-permalink: /Aktuelles/2011-07-01-SpacePiratesWuerfel
+permalink: /Aktuelles/2011-07-01-SpacePiratesWuerfel-spacepirates
 ---
 
 Wie schon auf Facebook und im Forum angekündigt, plane ich für SpacePirates spezielle Q-Workshop Würfel herauszubringen. Es werden 10-seitige Würfel werden, die auf je 5 Seiten das gleiche Motiv besitzen.

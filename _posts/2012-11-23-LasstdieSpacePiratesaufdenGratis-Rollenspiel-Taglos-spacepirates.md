@@ -2,7 +2,7 @@
 layout: post
 title: "Lasst die SpacePirates auf den Gratis-Rollenspiel-Tag los!"
 tag: SpacePirates
-permalink: /Aktuelles/2012-11-23-LasstdieSpacePiratesaufdenGratis-Rollenspiel-Taglos
+permalink: /Aktuelles/2012-11-23-LasstdieSpacePiratesaufdenGratis-Rollenspiel-Taglos-spacepirates
 ---
 
 Wie auf der [Produktseite](http:/gratisrollenspieltag.de/produkte/) des GRT schon vermerkt werde ich diese großartige Initiative mit dem SpacePirates Schnellstart-Heft unterstützen. Geplant ist eine 150er Auflage mit farbigen Umschlag, um in jedem Paket vertreten zu sein.

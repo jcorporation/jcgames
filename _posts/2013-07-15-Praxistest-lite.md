@@ -2,7 +2,7 @@
 layout: post
 title: "Praxistest"
 tag: Lite
-permalink: /Aktuelles/2013-07-15-Praxistest
+permalink: /Aktuelles/2013-07-15-Praxistest-lite
 ---
 
 

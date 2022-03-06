@@ -2,7 +2,7 @@
 layout: post
 title: "StarTunes CD-Box Vorabexemplar"
 tag: SpacePirates
-permalink: /Aktuelles/2017-07-09-startunes-cd-box-vorabexemplar
+permalink: /Aktuelles/2017-07-09-startunes-cd-box-vorabexemplar-spacepirates
 ---
 
 

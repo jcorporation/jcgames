@@ -2,7 +2,7 @@
 layout: post
 title: "SpaceNinjas Preview"
 tag: SpacePirates
-permalink: /Aktuelles/2010-12-25-SpaceNinjasPreview
+permalink: /Aktuelles/2010-12-25-SpaceNinjasPreview-spacepirates
 ---
 
 Nach längerer Zeit gibt es nun wieder ein aktualisiertes Preview-PDF zu SpaceNinjas. Das PDF umfasst momentan 16 Seiten und bietet gegenüber der letzten Preview überarbeitete Texte, eine erweiterte Beschreibung von Neu-Neo-Tokio und das Abenteuer Rache des Akamachi Clans.

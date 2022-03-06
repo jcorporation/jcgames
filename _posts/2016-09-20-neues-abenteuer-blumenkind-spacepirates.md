@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Abenteuer: Blumenkind"
 tag: SpacePirates
-permalink: /Aktuelles/2016-09-20-neues-abenteuer-blumenkind
+permalink: /Aktuelles/2016-09-20-neues-abenteuer-blumenkind-spacepirates
 ---
 
 Blumenkind basiert auf der gleichnamigen Mission für [Battlemap Heroes ](http:/ludus-leonis.com/battlemap-heroes/)von [Ludus Leonis](http:/ludus-leonis.com/).

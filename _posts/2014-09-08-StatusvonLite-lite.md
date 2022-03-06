@@ -2,7 +2,7 @@
 layout: post
 title: "Status von Lite"
 tag: Lite
-permalink: /Aktuelles/2014-09-08-StatusvonLite
+permalink: /Aktuelles/2014-09-08-StatusvonLite-lite
 ---
 
 

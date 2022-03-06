@@ -2,7 +2,7 @@
 layout: post
 title: "Ergänzte Konfliktregeln"
 tag: Lite
-permalink: /Aktuelles/2014-10-09-ErgaenzteKonfliktregeln
+permalink: /Aktuelles/2014-10-09-ErgaenzteKonfliktregeln-lite
 ---
 
 

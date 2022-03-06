@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Abenteuer - die Eisgalaxis"
 tag: SpacePirates
-permalink: /Aktuelles/2014-03-04-NeuesAbenteuer-dieEisgalaxis
+permalink: /Aktuelles/2014-03-04-NeuesAbenteuer-dieEisgalaxis-spacepirates
 ---
 
 

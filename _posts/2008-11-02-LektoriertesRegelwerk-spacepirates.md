@@ -2,7 +2,7 @@
 layout: post
 title: "Lektoriertes Regelwerk"
 tag: SpacePirates
-permalink: /Aktuelles/2008-11-02-LektoriertesRegelwerk
+permalink: /Aktuelles/2008-11-02-LektoriertesRegelwerk-spacepirates
 ---
 
 Mein Weltenbuchlektor Belchion hat wieder zugeschlagen und jetzt auch die aktuelle Fassung von SpacePirates lektoriert. Neben diversen Fehlerkorrekturen bringt das aktuelle PDF überarbeitete Planetentabellen mit.

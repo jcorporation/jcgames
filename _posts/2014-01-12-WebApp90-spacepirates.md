@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 9.0"
 tag: SpacePirates
-permalink: /Aktuelles/2014-01-12-WebApp90
+permalink: /Aktuelles/2014-01-12-WebApp90-spacepirates
 ---
 
 Die neueste Version der SpacePirates WebApp integriert die neuesten Inhalte und kommuniziert jetzt auch verschlüsselt mit dem jcgames CMS.

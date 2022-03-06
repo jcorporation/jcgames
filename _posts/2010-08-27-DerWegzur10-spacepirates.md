@@ -2,7 +2,7 @@
 layout: post
 title: "Der Weg zur 1.0"
 tag: SpacePirates
-permalink: /Aktuelles/2010-08-27-DerWegzur10
+permalink: /Aktuelles/2010-08-27-DerWegzur10-spacepirates
 ---
 
 ## Der Weg zur 1.0

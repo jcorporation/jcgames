@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 2.2.3 - Favoritenverwaltung"
 tag: SpacePirates
-permalink: /Aktuelles/2012-08-24-HTML5App-Favoritenverwaltung
+permalink: /Aktuelles/2012-08-24-HTML5App-Favoritenverwaltung-spacepirates
 ---
 
 Die neueste Version der SpacePirates App bietet nun die Verwaltung und Synchronisierung der Favoriten über PirateSpace. Dadurch ist die Favoritenfunktion auch bei nicht WebSQL-fähigen Browsern, wie z.B. Firefox möglich. Das Beste aber ist, dass die Favoriten jetzt auf jedem Gerät verfügbar sind, sobald man sich bei PirateSpace angemeldet hat. Die Favoriten werden bei jedem Aufruf der Favoritenfunktion synchronisiert. Änderungen im Offlinemodus werden zwischengespeichert (nur bei WebSQL-fähigen Browsern).

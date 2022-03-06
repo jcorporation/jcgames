@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Setting: Orient"
 tag: Lite
-permalink: /Aktuelles/2015-04-09-NeuesSettingOrient
+permalink: /Aktuelles/2015-04-09-NeuesSettingOrient-lite
 ---
 
 Dank der übererfolgreichen Finanzierung der Lite Premium Edition ist nun das 9. Setting für Lite fertig.

@@ -2,7 +2,7 @@
 layout: post
 title: "FeenCon"
 tag: SpacePirates
-permalink: /Aktuelles/2014-06-02-FeenCon
+permalink: /Aktuelles/2014-06-02-FeenCon-spacepirates
 ---
 
 

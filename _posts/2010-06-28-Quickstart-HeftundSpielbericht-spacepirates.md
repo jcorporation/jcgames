@@ -2,7 +2,7 @@
 layout: post
 title: "Quickstart-Heft und Spielbericht"
 tag: SpacePirates
-permalink: /Aktuelles/2010-06-28-Quickstart-HeftundSpielbericht
+permalink: /Aktuelles/2010-06-28-Quickstart-HeftundSpielbericht-spacepirates
 ---
 
 Neben dem Lektorat und dem Feintuning des Ausrüstungsteils arbeite ich gerade an einem Quickstart-Heft für SpacePirates, das alle nötigen Regeln und ein kurzes Abenteuer enthalten wird. Der Regelteil wird auch in der Space-Ausgabe des Zunftblatts abgedruckt.

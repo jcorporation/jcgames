@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Fan-Setting: Eastern Action"
 tag: Lite
-permalink: /Aktuelles/2015-10-06-NeuesFan-SettingEasternAction
+permalink: /Aktuelles/2015-10-06-NeuesFan-SettingEasternAction-lite
 ---
 
 Eastern Action orientiert sich an den Filmen aus Asien. Menschen mit schier übernatürlichen Fähigkeiten kämpfen für das Gute, um sich zu rächen oder himmelschreiendes Unrecht zu sühnen.

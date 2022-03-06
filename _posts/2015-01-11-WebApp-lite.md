@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp"
 tag: Lite
-permalink: /Aktuelles/2015-01-11-WebApp
+permalink: /Aktuelles/2015-01-11-WebApp-lite
 ---
 
 Nachdem sich Lite in großen Schritten der Fertigstellung nähert, wurde es Zeit auch für Lite eine WebApp anzubieten. Sie basiert, wie die SpacePirates WebApp, auf meinem eigenem WebApp-Framework jcApp.

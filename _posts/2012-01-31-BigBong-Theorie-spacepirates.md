@@ -2,7 +2,7 @@
 layout: post
 title: "BigBong-Theorie"
 tag: SpacePirates
-permalink: /Aktuelles/2012-01-31-BigBong-Theorie
+permalink: /Aktuelles/2012-01-31-BigBong-Theorie-spacepirates
 ---
 
 <p>Ihr habt Atlantis gefunden und damit eines der größten Rätsel dieses Universum gelöst. Es wird also Zeit, weitere Universen und neue Dimensionen zu entdecken. Und natürlich auch, etwas zu entspannen. In einer gemütlichen Teestube mit Shisha zum Beispiel.<br/>

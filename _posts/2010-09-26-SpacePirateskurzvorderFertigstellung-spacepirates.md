@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates kurz vor der Fertigstellung!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-09-26-SpacePirateskurzvorderFertigstellung
+permalink: /Aktuelles/2010-09-26-SpacePirateskurzvorderFertigstellung-spacepirates
 ---
 
 ## SpacePirates kurz vor der Fertigstellung!

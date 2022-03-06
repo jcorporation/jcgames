@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates Preview"
 tag: SpacePirates
-permalink: /Aktuelles/2010-05-02-SpacePiratesPreview
+permalink: /Aktuelles/2010-05-02-SpacePiratesPreview-spacepirates
 ---
 
 

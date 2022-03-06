@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Wiki und aktualisierte Preview"
 tag: SpacePirates
-permalink: /Aktuelles/2010-06-20-NeuesWikiundaktualisiertePreview
+permalink: /Aktuelles/2010-06-20-NeuesWikiundaktualisiertePreview-spacepirates
 ---
 
 

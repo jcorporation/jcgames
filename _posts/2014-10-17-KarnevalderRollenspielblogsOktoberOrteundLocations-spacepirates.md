@@ -2,7 +2,7 @@
 layout: post
 title: "Karneval der Rollenspielblogs Oktober: Orte und Locations"
 tag: SpacePirates
-permalink: /Aktuelles/2014-10-17-KarnevalderRollenspielblogsOktoberOrteundLocations
+permalink: /Aktuelles/2014-10-17-KarnevalderRollenspielblogsOktoberOrteundLocations-spacepirates
 ---
 
 Jetzt habe ich mich mal wieder aufgerafft und etwas für den Karneval der Rollenspielblogs geschrieben und ganz vergessen auch einen passenden Blogpost zu veröffentlichen, was ich hiermit nachhole.

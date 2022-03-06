@@ -2,7 +2,7 @@
 layout: post
 title: "Erweiterte Weltbeschreibungen"
 tag: SpacePirates
-permalink: /Aktuelles/2008-07-26-ErweiterteWeltbeschreibungen
+permalink: /Aktuelles/2008-07-26-ErweiterteWeltbeschreibungen-spacepirates
 ---
 
 

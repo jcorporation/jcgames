@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisierte PDFs"
 tag: SpacePirates
-permalink: /Aktuelles/2013-03-04-AktualisiertePDFs
+permalink: /Aktuelles/2013-03-04-AktualisiertePDFs-spacepirates
 ---
 
 <p>Wer den PDFCast abonniert hat, hat es bereits mitbekommen. Die SpacePirates Beispielcharaktere im Grundregelwerk und im Schnellstartheft wurden aktualisiert. Zudem sind die Beispielcharaktere jetzt auch in der Piratenverwaltung integriert.<br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Karneval der Rollenspielblogs: Durch unbekannte Pforten"
 tag: SpacePirates
-permalink: /Aktuelles/2016-01-03-karneval-der-rollenspielblogs-durch-unbekannte-pforten
+permalink: /Aktuelles/2016-01-03-karneval-der-rollenspielblogs-durch-unbekannte-pforten-spacepirates
 ---
 
 Im Januar 2016 geht es im Karneval der Rollenspielblogs um das Thema &bdquo;Durch unbekannte Pforten: Wege in andere Welten&ldquo;. Den Startbeitrag findet ihr [hier](http:/www.weltenbau-wissen.de/2016/01/karneval-der-rollenspielblogs-unbekannte-pforten/) und [hier](http:/forum.rsp-blogs.de/rsp-karneval/durch-unbekannte-pforten-wege-in-andere-welten-%28januar-2016%29/) gibt es den passenden Thread im Forum. Das Thema passt definitiv zu SpacePirates, da es im SpacePirates Universum schon jetzt ein paar Portale gibt, die ich hier vorstellen will.

@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 3.0"
 tag: SpacePirates
-permalink: /Aktuelles/2012-08-26-HTML5App30
+permalink: /Aktuelles/2012-08-26-HTML5App30-spacepirates
 ---
 
 Anfang August habe ich PirateSpace angekündigt und in den 2.x Versionen auch schon die ersten Funktionen davon veröffentlicht. Nun ist es Ende August soweit mit der 3.0 Version der HTML5 App bietet PirateSpace alle angedachten Funktionen, so dass jetzt die Favoriten, Piraten und Raumschiffe mit PirateSpace synchronisiert werden können und die App auch ohne lokale WebSQL Datenbank mit allen Features lauffähig ist.

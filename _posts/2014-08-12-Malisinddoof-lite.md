@@ -2,7 +2,7 @@
 layout: post
 title: "Mali sind doof..."
 tag: Lite
-permalink: /Aktuelles/2014-08-12-Malisinddoof
+permalink: /Aktuelles/2014-08-12-Malisinddoof-lite
 ---
 
 &hellip; oder wieso Lite keine Mali bei Proben hat.

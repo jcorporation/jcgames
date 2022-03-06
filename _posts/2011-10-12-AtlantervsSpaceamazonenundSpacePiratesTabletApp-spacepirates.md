@@ -2,7 +2,7 @@
 layout: post
 title: "Atlanter vs Spaceamazonen und SpacePirates Tablet App"
 tag: SpacePirates
-permalink: /Aktuelles/2011-10-12-AtlantervsSpaceamazonenundSpacePiratesTabletApp
+permalink: /Aktuelles/2011-10-12-AtlantervsSpaceamazonenundSpacePiratesTabletApp-spacepirates
 ---
 
 Moritz hat das Atlanter vs Spaceamazonen Themenheft durchgeackert und die überarbeitete Version steht nun online. Inhaltlich hat sich nicht viel verändert, dafür wurden aber viele Fehler ausgemerzt.

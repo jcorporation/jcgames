@@ -2,7 +2,7 @@
 layout: post
 title: "Zeitraub"
 tag: SpacePirates
-permalink: /Aktuelles/2009-09-05-Zeitraub
+permalink: /Aktuelles/2009-09-05-Zeitraub-spacepirates
 ---
 
 

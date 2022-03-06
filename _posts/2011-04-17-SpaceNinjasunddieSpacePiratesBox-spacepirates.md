@@ -2,7 +2,7 @@
 layout: post
 title: "SpaceNinjas und die SpacePirates Box"
 tag: SpacePirates
-permalink: /Aktuelles/2011-04-17-SpaceNinjasunddieSpacePiratesBox
+permalink: /Aktuelles/2011-04-17-SpaceNinjasunddieSpacePiratesBox-spacepirates
 ---
 
 

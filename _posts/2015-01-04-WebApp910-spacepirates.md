@@ -2,7 +2,7 @@
 layout: post
 title: "WebApp 9.10"
 tag: SpacePirates
-permalink: /Aktuelles/2015-01-04-WebApp910
+permalink: /Aktuelles/2015-01-04-WebApp910-spacepirates
 ---
 
 Die neueste Version der SpacePirates WebApp repariert ein paar kleinere Fehler in der Piraten- und Raumschiffverwaltung und bietet auch etwas hübschere Formulare. Zudem können jetzt Piraten und Raumschiffe auch als SVG exportiert werden.

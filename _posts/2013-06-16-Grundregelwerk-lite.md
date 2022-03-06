@@ -2,7 +2,7 @@
 layout: post
 title: "Grundregelwerk"
 tag: Lite
-permalink: /Aktuelles/2013-06-16-Grundregelwerk
+permalink: /Aktuelles/2013-06-16-Grundregelwerk-lite
 ---
 
 Jetzt hätte ich doch beinahe vergessen, das neuste PDF des Lite Grundregelwerks online zu stellen&hellip;

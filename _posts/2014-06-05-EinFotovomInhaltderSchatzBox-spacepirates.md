@@ -2,7 +2,7 @@
 layout: post
 title: "Ein Foto vom Inhalt der Schatz.Box"
 tag: SpacePirates
-permalink: /Aktuelles/2014-06-05-EinFotovomInhaltderSchatzBox
+permalink: /Aktuelles/2014-06-05-EinFotovomInhaltderSchatzBox-spacepirates
 ---
 
 Heute habe ich ein Musterfoto vom Inhalt der exklusiven SpacePirates Schatz.Box erhalten. Wer erkennt was es ist?

@@ -2,7 +2,7 @@
 layout: post
 title: "eBook"
 tag: SpacePirates
-permalink: /Aktuelles/2011-10-04-eBook
+permalink: /Aktuelles/2011-10-04-eBook-spacepirates
 ---
 
 SpacePirates gibt es jetzt auch als eBook, genauer gesagt, im freien EPUB Format. Momentan ist nur das Grundregelwerk verfügbar, wenn es aber auf Resonanz stößt, wird es auch alle anderen PDF Dokumente als eBook geben.

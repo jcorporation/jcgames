@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates bei DORP TV"
 tag: SpacePirates
-permalink: /Aktuelles/2011-05-15-SpacePiratesbeiDORPTV
+permalink: /Aktuelles/2011-05-15-SpacePiratesbeiDORPTV-spacepirates
 ---
 
 

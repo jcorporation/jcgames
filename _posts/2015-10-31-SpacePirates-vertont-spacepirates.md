@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates vertont"
 tag: SpacePirates
-permalink: /Aktuelles/2015-10-31-SpacePirates-vertont
+permalink: /Aktuelles/2015-10-31-SpacePirates-vertont-spacepirates
 ---
 
 Für die ganz Ungeduldigen unter euch, hier ein kleines Sample aus dem [SpacePirates Theme Song.](https://spacepirates.jcgames.de/StarTunes/)

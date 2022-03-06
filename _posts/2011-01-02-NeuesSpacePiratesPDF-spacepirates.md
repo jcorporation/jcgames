@@ -2,7 +2,7 @@
 layout: post
 title: "Neues SpacePirates PDF"
 tag: SpacePirates
-permalink: /Aktuelles/2011-01-02-NeuesSpacePiratesPDF
+permalink: /Aktuelles/2011-01-02-NeuesSpacePiratesPDF-spacepirates
 ---
 
 

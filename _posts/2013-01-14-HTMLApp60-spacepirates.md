@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 6.0"
 tag: SpacePirates
-permalink: /Aktuelles/2013-01-14-HTMLApp60
+permalink: /Aktuelles/2013-01-14-HTMLApp60-spacepirates
 ---
 
 Die neueste Version der SpacePirates App bietet nun eine überarbeitete Benutzeroberfläche mit Tabs, zur noch komfortableren Verwendung der App. Auch die interaktive Sternenkarte öffnet sich nun in einem eigenen Tab und nicht mehr in einem unpraktischem Popup.

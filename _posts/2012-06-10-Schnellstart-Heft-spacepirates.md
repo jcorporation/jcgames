@@ -2,7 +2,7 @@
 layout: post
 title: "Schnellstart-Heft"
 tag: SpacePirates
-permalink: /Aktuelles/2012-06-10-Schnellstart-Heft
+permalink: /Aktuelles/2012-06-10-Schnellstart-Heft-spacepirates
 ---
 
 Das Schnellstart-Heft für die zweite Version von SpacePirates ist nun als PDF verfügbar. Wie das alte Quickstart-Heft beinhaltet es eine knappe Universumsbeschreibung, eine Kurzversion der Regel, das Abenteuer Schatzjagd, 5 vorgefertigte Charaktere inklusive Raumschiff und die Sternenkarte. Es besitzt einen Umfang von 16 A5 Seiten.

@@ -2,7 +2,7 @@
 layout: post
 title: "Dein Wunsch zählt!"
 tag: SpacePirates
-permalink: /Aktuelles/2015-07-06-DeinWunschzaehlt
+permalink: /Aktuelles/2015-07-06-DeinWunschzaehlt-spacepirates
 ---
 
 

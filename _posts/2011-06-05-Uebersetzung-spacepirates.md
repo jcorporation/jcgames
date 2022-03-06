@@ -2,7 +2,7 @@
 layout: post
 title: "Übersetzung"
 tag: SpacePirates
-permalink: /Aktuelles/2011-06-05-Uebersetzung
+permalink: /Aktuelles/2011-06-05-Uebersetzung-spacepirates
 ---
 
 Die erste, grobe Übersetzung des SpacePirates Quickstarts ist abgeschlossen. Das PDF bietet neben dem kompletten Quickstart auch übersetzte Piratenbögen und die Sternenkarte. Es sind auch schon die ersten Texte des Grundregelwerks übersetzt.

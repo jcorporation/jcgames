@@ -2,7 +2,7 @@
 layout: post
 title: "Schluss mit den SpaceNinjas Previews!"
 tag: SpacePirates
-permalink: /Aktuelles/2011-02-19-SchlussmitdenSpaceNinjasPreviews
+permalink: /Aktuelles/2011-02-19-SchlussmitdenSpaceNinjasPreviews-spacepirates
 ---
 
 

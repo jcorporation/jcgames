@@ -2,7 +2,7 @@
 layout: post
 title: "Aktualisiertes Quickstart-Heft"
 tag: SpacePirates
-permalink: /Aktuelles/2010-10-06-AktualisiertesQuickstart-Heft
+permalink: /Aktuelles/2010-10-06-AktualisiertesQuickstart-Heft-spacepirates
 ---
 
 Nach dem finalen Release des Grundregelwerks, gibt es nun auch ein aktualisiertes Quickstart-Heft zum Herunterladen. Neben der Beseitigung von kleinen Fehlern wurde die Beschreibung der Macken des vorgefertigten Raumschiffs hinzugefügt.

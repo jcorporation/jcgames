@@ -2,7 +2,7 @@
 layout: post
 title: "Erweiterung des Settings"
 tag: SpacePirates
-permalink: /Aktuelles/2009-06-21-ErweiterungdesSettings
+permalink: /Aktuelles/2009-06-21-ErweiterungdesSettings-spacepirates
 ---
 
 Seit dem letzten PDF-Release, was genau einen Monat her ist, wurde die Settingbeschreibung erweitert. Die verschiedenen Aliens wurden näher beschrieben und der Abschnitt über Freihandelszone und Banken wurde erweitert.

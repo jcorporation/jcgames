@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates v2"
 tag: SpacePirates
-permalink: /Aktuelles/2012-02-15-SpacePiratesv2
+permalink: /Aktuelles/2012-02-15-SpacePiratesv2-spacepirates
 ---
 
 Nach der Fertigstellung von BigBong arbeite ich derzeit fleißig an SpacePirates v2. Momentan nehme ich die Regeln nochmals ganz genau unter die Lupe und teste sie intensiv mit unterschiedlichen Runden und Abenteuern. Zudem feile ich an Feinheiten des Textes um alle Unklarheiten auszuräumen. Genau dieser Aktion ist jetzt der Begriff Schadenspool für die Profile zum Opfer gefallen, der nie wirklich gepasst hat und nun durch Zähigkeit ersetzt worden ist. Die Überarbeitung des Regeltextes soll bis Ende Februar abgeschlossen sein, damit ich den März für das Layout habe, bevor das fertige Produkt, mitsamt den beiden neuen Themenheften, dann Anfang April in den Druck geht.

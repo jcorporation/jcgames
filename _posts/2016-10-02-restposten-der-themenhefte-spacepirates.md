@@ -2,7 +2,7 @@
 layout: post
 title: "Restposten der Themenhefte"
 tag: SpacePirates
-permalink: /Aktuelles/2016-10-02-restposten-der-themenhefte
+permalink: /Aktuelles/2016-10-02-restposten-der-themenhefte-spacepirates
 ---
 
 

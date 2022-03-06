@@ -2,7 +2,7 @@
 layout: post
 title: "Neue Publikationen für SpacePirates?"
 tag: SpacePirates
-permalink: /Aktuelles/2016-07-31-neue-publikationen-fuer-spacepirates
+permalink: /Aktuelles/2016-07-31-neue-publikationen-fuer-spacepirates-spacepirates
 ---
 
 

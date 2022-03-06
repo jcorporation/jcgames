@@ -2,7 +2,7 @@
 layout: post
 title: "Neues Abenteuer: Big Whoop"
 tag: SpacePirates
-permalink: /Aktuelles/2010-10-30-NeuesAbenteuerBigWhoop
+permalink: /Aktuelles/2010-10-30-NeuesAbenteuerBigWhoop-spacepirates
 ---
 
 

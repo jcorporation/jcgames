@@ -2,7 +2,7 @@
 layout: post
 title: "SpacePirates auf der RPC"
 tag: SpacePirates
-permalink: /Aktuelles/2011-03-22-SpacePiratesaufderRPC
+permalink: /Aktuelles/2011-03-22-SpacePiratesaufderRPC-spacepirates
 ---
 
 

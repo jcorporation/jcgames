@@ -2,7 +2,7 @@
 layout: post
 title: "Preview in Arbeit!"
 tag: SpacePirates
-permalink: /Aktuelles/2010-04-29-PreviewinArbeit
+permalink: /Aktuelles/2010-04-29-PreviewinArbeit-spacepirates
 ---
 
 

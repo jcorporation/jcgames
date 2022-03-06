@@ -2,7 +2,7 @@
 layout: post
 title: "Inhalt der Schatz.Box"
 tag: SpacePirates
-permalink: /Aktuelles/2014-06-17-InhaltderSchatzBox
+permalink: /Aktuelles/2014-06-17-InhaltderSchatzBox-spacepirates
 ---
 
 <p>Wie ihr auf dem Foto sehen könnt, kam heute ein Teil des Schatz.Box Inhalts an.<br/>

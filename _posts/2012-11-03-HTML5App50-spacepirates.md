@@ -2,7 +2,7 @@
 layout: post
 title: "HTML5 App 5.0"
 tag: SpacePirates
-permalink: /Aktuelles/2012-11-03-HTML5App50
+permalink: /Aktuelles/2012-11-03-HTML5App50-spacepirates
 ---
 
 Die SpacePirates HTML5 App basiert nun auf das zeitgleich veröffentlichte jcAPP 1.0 Framework. Dieser Umstieg bringt zugleich auch weitere Funktion, wie die Cloudstatusanzeige und einen überarbeitet Footer und einige Bugfixes mit. Das Datenformat hat sich zudem auch geändert, die vorhandenen Daten werden aber beim Start der neuen App-Version migriert. Zudem bietet die App nun auch das Stars und Sternchen Themenheft und den ersten SP:Insider Roboter von Kappa Gamma.
