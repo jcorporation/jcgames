@@ -7,4 +7,13 @@ layout: page
 {{ content }}
 
 <hr/>
-<small>Geschrieben am {{ page.date | date: "%d.%m.%Y"}}</small>
+{% if page.tag == 'SpacePirates' %}
+    {% assign link = 'https://spacepirates.jcgames.de/' %}
+  {% elsif page.tag == 'Lite' %}
+    {% assign link = 'https://lite.jcgames.de/' %}
+  {% elsif page.tag == 'Das Weltenbuch' %}
+    {% assign link = 'https://das-weltenbuch.jcgames.de/' %}
+  {% else %}
+    {% assign link = 'https://www.jcgames.de/' %}
+  {% endif %}
+<small>Geschrieben am {{ page.date | date: "%d.%m.%Y"}} unter <a class="link-dark" href="{{ link }}">{{ page.tag }}</a></small>
