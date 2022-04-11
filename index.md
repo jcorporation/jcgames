@@ -28,7 +28,7 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
         <div class="card bg-weltenbuch clickable">
             <div class="card-body card-body-weltenbuch"></div>
             <div class="card-footer d-flex justify-content-center">
-                <a href="https://jcgames.de/weltenbuch/" class="link-light">Das Weltenbuch</a>
+                <a href="https://dasweltenbuch.jcgames.de/" class="link-light">Das Weltenbuch</a>
             </div>
         </div>
     </div>
