@@ -1,0 +1,9 @@
+---
+layout: post
+title: "WebApp"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2016-04-17-webapp-dasweltenbuch
+---
+
+Soeben habe ich die erste Version der Weltenbuch WebApp online gestellt. Sie beinhaltet das aktuelle Weltenbuch Grundregelwerk, die Charakterverwaltung und die interaktive Karte der Doppelseite.
+

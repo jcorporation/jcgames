@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Wiki"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2008-12-07-Wiki-dasweltenbuch
+---
+
+
+Im Wiki gibt es wieder neue Einträge, schön das ab und an jemand etwas zum Weltenbuch beisteuert.
+
+Und hier noch eine kleine Randnotiz zu Kleinkari:
+
+<i>&quot;Vor einiger Zeit wurde ein gewisser Salomon aus Kleinkari verbannt, da er beständig versuchte, die Streiter durch weise Auslegung des Gesetzes zu versöhnen. Selbstverständlich sahen dies beständig beide Streitparteien als Niederlage an und gingen in Revision. In einer einmaligen einminütigen Entscheidung urteilten alle kleinkarischen Gerichtshöfe daher der Störung der Rechtsordnung für schuldig und sprachen ihm die Tauglichkeit fürs Richteramt ab.&quot;</i>
+

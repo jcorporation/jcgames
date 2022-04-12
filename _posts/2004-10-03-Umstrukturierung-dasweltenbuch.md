@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Umstrukturierung..."
+tag: Das Weltenbuch
+permalink: /Aktuelles/2004-10-03-Umstrukturierung-dasweltenbuch
+---
+
+Die Seite wurde komplett umstrukturiert und ist so nicht mehr so tief verzweigt und schafft damit etwas mehr Übersichtlichkeit.
+
+Die Karte der Legendären Stadt ist fertiggestellt und die ersten Kurzbeschreibungen zu dieser auch schon online.
+
+

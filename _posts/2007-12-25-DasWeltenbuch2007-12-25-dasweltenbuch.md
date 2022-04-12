@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Das Weltenbuch 2007-12-25"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2007-12-25-DasWeltenbuch2007-12-25-dasweltenbuch
+---
+
+Nach einer etwas längeren Pause steht jetzt eine neue Previewversion des Weltenbuch Grundregelwerks zum Download bereit. Auch in dieser Version wurden wieder Fehler bereinigt und viele Bilder sind jetzt in einer höheren Auflösung integriert.
+
+- [zu den Downloads](https://dasweltenbuch.jcgames.de/Publikationen/)
+
+## RPC 2008
+
+Momentan gibt es Pläne für eine Indie-Insel auf der RPC 2008 und das Weltenbuch wird dabei sein. Natürlich wird immer Hilfe benötigt, für die Promotion des Weltenbuchs und alle anderen Indie-Rollenspiele. Mehr dazu im [Indie-Forum von Tanelorn](http://tanelorn.net/index.php/topic,38674.0.html).

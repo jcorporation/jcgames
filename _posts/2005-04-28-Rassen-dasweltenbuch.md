@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Rassen"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2005-04-28-Rassen-dasweltenbuch
+---
+
+Die Beschreibungen der guten Rassen wurden ergänzt, nachdem die bösen Rassen schon vollständig sind, werden jetzt die guten vervollständigt, danach kommen die Texte für die Menschenvölker an die Reihe.
+
+## Forum
+
+Wie zu erwarten bekomme ich durch das integrierte Forum auch nicht mehr Feedback wie früher, schade eigentlich, aber dennoch danke an alle die bis jetzt Kommentare abgegeben haben.
+
+

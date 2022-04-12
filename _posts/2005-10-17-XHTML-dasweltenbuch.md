@@ -1,0 +1,10 @@
+---
+layout: post
+title: "XHTML"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2005-10-17-XHTML-dasweltenbuch
+---
+
+Die Seite ist jetzt XHTML 1.0 kompatibel. Wenn jetzt Darstellungsfehler auftreten muss es am Browser liegen :)
+
+

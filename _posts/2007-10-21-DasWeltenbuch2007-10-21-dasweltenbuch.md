@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Das Weltenbuch 2007-10-21"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2007-10-21-DasWeltenbuch2007-10-21-dasweltenbuch
+---
+
+Eigeninitiative statt Railroading heißt das neue Motto des integrierten Einstiegsabenteuers. Neben der kompletten Überarbeitung des Abenteuers wurde auch viel Feedback zum Regelwerk eingearbeitet. Das Regelwerk kann dadurch mit einer komplett überarbeiteten Fertigkeitenliste glänzen. Auch die Heldenpergamente und der Spielleiterbogen wurde an die Änderungen angepasst.
+
+- [zu den Downloads](https://dasweltenbuch.jcgames.de/Publikationen/)

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Weltbeschreibung"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2005-09-16-Weltbeschreibung-dasweltenbuch
+---
+
+
+Die Weltbeschreibung ist jetzt in der Version 0.0.9 online.
+
+### Changelog
+
+  - Gilden ergänzt
+  - Bünde und Geheimgesellschaften hinzugefügt
+  - Rassentexte überarbeitet
+  - Geschichte ergänzt
+  - Flora und Fauna ergänzt
+  - Lektoriat
+  - Layout überarbeitet
+

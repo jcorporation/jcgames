@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Das Weltenbuch 2007-10-02"
+tag: Das Weltenbuch
+permalink: /Aktuelles/2007-10-02-DasWeltenbuch2007-10-02-dasweltenbuch
+---
+
+Pünktlich zum 3. Oktober gibt es eine weitere Preview des Weltenbuchs. In dieser Version wurde vor allem das Schadens- und Rüstungssystem überarbeitet; das Kampfsystem sollte jetzt weniger tödlich sein und das Tragen von Rüstung hat jetzt im Kampf nur noch Vorteile. Auch die beispielhaften Helden und der Spielleiterbogen wurden an die Regeländerungen angepasst.
+
+Zudem sind neue Rassenillustrationen hinzugekommen und es wurden wieder Fehler in den Texten eliminiert.
+
+- [zu den Downloads](https://dasweltenbuch.jcgames.de/Publikationen/)
