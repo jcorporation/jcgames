@@ -9,18 +9,18 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-3">
     <div class="col">
-        <div class="card bg-lite clickable">
-            <div class="card-body card-body-lite"></div>
-            <div class="card-footer d-flex justify-content-center">
-                <a href="https://lite.jcgames.de" class="link-light">Lite </a>
-            </div>
-        </div>
-    </div>
-    <div class="col">
         <div class="card bg-spacepirates clickable">
             <div class="card-body card-body-spacepirates"></div>
             <div class="card-footer d-flex justify-content-center card-footer-spacepirates">
                 <a href="https://spacepirates.jcgames.de/" class="link-light">SpacePirates</a>
+            </div>
+        </div>
+    </div>
+    <div class="col">
+        <div class="card bg-lite clickable">
+            <div class="card-body card-body-lite"></div>
+            <div class="card-footer d-flex justify-content-center">
+                <a href="https://lite.jcgames.de" class="link-light">Lite </a>
             </div>
         </div>
     </div>
