@@ -7,5 +7,3 @@ permalink: /Aktuelles/2011-02-06-SpaceNinjasCover-spacepirates
 
 
 Der erste Entwurf des SpaceNinja Covers ist fertig.
-
-

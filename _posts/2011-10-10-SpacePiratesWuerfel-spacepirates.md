@@ -6,4 +6,3 @@ permalink: /Aktuelles/2011-10-10-SpacePiratesWuerfel-spacepirates
 ---
 
 Die SpacePirates Würfel sind gerade eingetroffen. Eine Mail an die Vorbesteller geht demnächst heraus.
-

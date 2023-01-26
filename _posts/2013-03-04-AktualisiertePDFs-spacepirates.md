@@ -10,4 +10,3 @@ permalink: /Aktuelles/2013-03-04-AktualisiertePDFs-spacepirates
 Es gibt auch ein [brandneues PDF](https://spacepirates.jcgames.de/Publikationen/), das jetzt die Ausrüstung und Raumschiffe aus dem Grundregelwerk und den Themenheften vereint.<br/>
 <br/>
 **Zu den [Downloads](https://spacepirates.jcgames.de/Publikationen/)**</p>
-

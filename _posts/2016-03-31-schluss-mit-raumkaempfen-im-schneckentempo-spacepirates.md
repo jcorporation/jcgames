@@ -12,5 +12,3 @@ Feedback nehme ich natürlich über alle bekannten [Kanäle](https://spacepirate
 **[&raquo; zu SpacePirates &ndash; Ahoi Landratten!](https://spacepirates.jcgames.de/Spielregeln/)**
 
 **[&raquo; Vorschau herunterladen](https://spacepirates.jcgames.de/Publikationen/)**
-
-
