@@ -11,7 +11,7 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
     <div class="col">
         <div class="card bg-spacepirates clickable">
             <div class="card-body card-body-spacepirates"></div>
-            <div class="card-footer d-flex justify-content-center">
+            <div class="card-footer d-flex justify-content-center card-footer-spiele">
                 <a href="https://spacepirates.jcgames.de/" class="link-light">SpacePirates</a>
             </div>
         </div>
@@ -19,7 +19,7 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
     <div class="col">
         <div class="card bg-lite clickable">
             <div class="card-body card-body-lite"></div>
-            <div class="card-footer d-flex justify-content-center">
+            <div class="card-footer d-flex justify-content-center card-footer-spiele">
                 <a href="https://lite.jcgames.de" class="link-light">Lite </a>
             </div>
         </div>
@@ -27,7 +27,7 @@ jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durc
     <div class="col">
         <div class="card bg-weltenbuch clickable">
             <div class="card-body card-body-weltenbuch"></div>
-            <div class="card-footer d-flex justify-content-center">
+            <div class="card-footer d-flex justify-content-center card-footer-spiele">
                 <a href="https://dasweltenbuch.jcgames.de/" class="link-light">Das Weltenbuch</a>
             </div>
         </div>
