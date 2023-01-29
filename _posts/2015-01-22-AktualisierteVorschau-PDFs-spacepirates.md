@@ -7,4 +7,4 @@ permalink: /Aktuelles/2015-01-22-AktualisierteVorschau-PDFs-spacepirates
 
 Nachdem SpacePirates und die Themenhefte fast ausverkauft sind, plane ich das SpacePirates Grundregelwerk im gleichen Format neu aufzulegen. Die Themenhefte und die SP:Insider werden in einem Sammelband als Hardcover erscheinen. Unabhängig davon werden die Abenteuer der SpacePirates auch als Hardcover gedruckt.
 
-**[Herunterladen](https://spacepirates.jcgames.de/Publikationen/)**
+- [Herunterladen](https://spacepirates.jcgames.de/Publikationen/)

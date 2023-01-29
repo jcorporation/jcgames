@@ -9,4 +9,4 @@ Das neueste SpacePirates v5 PDF hat vorallem kleinere Fehlerbereinigung erfahren
 
 Der Piraten- und Raumschiffbogen ist jetzt auch wieder online, nachdem ich in versehentlich offline genommen hatte.
 
-**[&raquo; SpacePirates v5](https://spacepirates.jcgames.de/Spielregeln/)**
+- [SpacePirates v5](https://spacepirates.jcgames.de/Spielregeln/)

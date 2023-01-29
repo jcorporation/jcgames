@@ -10,4 +10,4 @@ permalink: /Aktuelles/2015-02-03-10Dinge-spacepirates
 - W10 Eigenschaften von KIs
 - W10 Fehlfunktionen von Geräten
 
-**[zu den Zufallstabellen](https://spacepirates.jcgames.de/Zufallstabellen/)**
+- [zu den Zufallstabellen](https://spacepirates.jcgames.de/Zufallstabellen/)

@@ -7,4 +7,4 @@ permalink: /Aktuelles/2013-11-10-AktualisierteZufallsgeneratoren-spacepirates
 
 Die zahlreichen Zufallsgeneratoren von SpacePirates wurden wieder einmal auf den aktuellen Stand des Universums gebracht und auch ganz allgemein erweitert. Ganz neu ist jetzt auch der Beutegenerator.
 
-**Zu den [Zufallsgeneratoren](https://spacepirates.jcgames.de/Zufallstabellen/)**
+- Zu den [Zufallsgeneratoren](https://spacepirates.jcgames.de/Zufallstabellen/)

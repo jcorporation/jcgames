@@ -9,6 +9,5 @@ Es ist vollbracht, im Downloadbereich befindet sich nun die finale SpacePirates-
 
 Feedback nehme ich natürlich über alle bekannten [Kanäle](https://spacepirates.jcgames.de/Kontakt) gerne entgegen.
 
-**[&raquo; zum Regelwerk](https://spacepirates.jcgames.de/Spielregeln/)**
-
-**[&raquo; Herunterladen](https://spacepirates.jcgames.de/Publikationen/)**
+- [zum Regelwerk](https://spacepirates.jcgames.de/Spielregeln/)
+- [Herunterladen](https://spacepirates.jcgames.de/Publikationen/)
