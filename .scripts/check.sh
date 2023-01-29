@@ -5,7 +5,7 @@ check_permalink() {
     P=${F%.*} # remove extension
     PERMALINK=${P:1} # remove first char
     PERMALINK=${PERMALINK/%index} # remove index
-	PERMALINK=${PERMALINK//_posts/Aktuelles}
+    PERMALINK=${PERMALINK//_posts/Aktuelles}
 
     if ! grep -q "^permalink: $PERMALINK\$" "$F"
     then
