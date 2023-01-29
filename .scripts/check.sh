@@ -30,6 +30,7 @@ do
     [[ "$F" =~ ^./_includes.* ]] && continue
     [[ "$F" =~ ^./_site.* ]] && continue
     [[ "$F" =~ .*_aside.md$ ]] && continue
+    [[ "$F" =~ ^./node_modules/.* ]] && continue
 
     # check links
     .scripts/check-links.pl "$F"
