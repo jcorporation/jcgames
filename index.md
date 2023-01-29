@@ -5,7 +5,7 @@ title: freie Rollenspiele
 ---
 
 Unter der Indie-Marke jcgames veröffentliche ich meine freien Papier-und-Bleistift-Rollenspiele als kostenlose PDF und kostengünstige Bücher.
-jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durch den Buchverkauf herauskommt, was mich aber auch nicht stört. Dieses kleine Hobby funktioniert nur durch die tatkräftige Mithilfe einiger Freiwilligen und durch das [Feedback](https://www.tanelorn.net/index.php?board=367.0) der Community. Nur so bleibt auch meine Motivation erhalten eigene Rollenspiele auf die Beine zu stellen.
+jcgames ist ein Hobby von mir, in das ich mehr Energie und Geld stecke, als durch den Buchverkauf herauskommt, was mich aber auch nicht stört. Dieses kleine Hobby funktioniert nur durch die tatkräftige Mithilfe einiger Freiwilligen und durch das [Feedback]({{ site.baseurl}}/Kontakt) der Community. Nur so bleibt auch meine Motivation erhalten eigene Rollenspiele auf die Beine zu stellen.
 
 <div class="row row-cols-1 row-cols-md-2 g-4 mb-3">
     <div class="col">

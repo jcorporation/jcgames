@@ -10,6 +10,7 @@ check_permalink() {
     if ! grep -q "^permalink: $PERMALINK\$" "$F"
     then
         echo "Invalid permalink: $F / $PERMALINK"
+        rc=1
     fi
 }
 
@@ -19,6 +20,7 @@ check_title() {
     if ! grep -P -q '^title: \S+' "$F"
     then
         echo "Empty title: $F"
+        rc=1
     fi
 }
 
@@ -36,3 +38,11 @@ do
     # check title
     check_title "$F"
 done < <(find ./ -name \*.md)
+
+echo "Checking markdown"
+if ! npx markdownlint-cli -i "node_modules/**" -i "_posts/*" "**/*.md"
+then
+    rc=1
+fi
+
+exit $rc

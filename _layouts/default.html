@@ -1,32 +1,28 @@
 <!DOCTYPE html>
 <html lang="de">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.title }} – {{ site.description }}</title>
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/style.css" />
-    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
+    <link href="{{ site.baseurl }}/assets/bootstrap-icons.woff2" rel="preload" as="font" type="font/woff2" crossorigin="anonymous"/>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/default.css"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="apple-touch-icon"/>
+    <link href="{{ site.baseurl }}/assets/images/appicon-192.png" rel="icon"/>
+    <link href="{{ site.baseurl }}/feed.xml" rel="alternate" type="application/rss+xml" title="{{ site.title }}"/>
   </head>
   <body>
-    <header class="navbar navbar-expand-sm navbar-light bg-light">
-      <nav class="container-xxl flex-wrap flex-md-nowrap py-3">
-        <a class="navbar-brand p-0 me-4" href="{{ site.baseurl }}/">
-          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="jcgames" width="188" height="40">
+    <header class="navbar navbar-light bg-light">
+      <nav class="container-xxl flex-wrap py-3 justify-content-center">
+        <a class="p-0" href="{{ site.baseurl }}/">
+          <img src="{{ site.baseurl }}/assets/images/logo.png" alt="jcgames" width="188" height="40"/>
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbar">
-          <div class="navbar-nav flex-grow-1">
-            <a class="nav-link p-2 text-dark" href="/Aktuelles/">Aktuelles</a>
-            <a class="nav-link p-2 text-dark" href="/Kontakt">Kontakt</a>
-          </div>
-        </div>
       </nav>
     </header>
-    <header class="navbar navbar-expand-md bg-red text-light py-2 mb-2">
-      <nav class="container-xxl flex-wrap px-3 mb-0 justify-content-start">
-        {% include breadcrumbs.md%}
+    <header class="navbar bg-red text-light py-2 mb-2">
+      <nav class="container-xxl flex-wrap px-3 mb-0 justify-content-center">
+        <a class="nav-link p-2 mx-2" href="{{ site.baseurl }}/Aktuelles/"><span class="mi me-2">&#xF588;</span>Aktuelles</a>
+        <a class="nav-link p-2 mx-2" href="{{ site.baseurl }}/Kontakt"><span class="mi me-2">&#xF4DB;</span>Kontakt</a>
       </nav>
     </header>
     <div class="container-xxl py-2 flex-grow-1">
@@ -34,12 +30,13 @@
         {{ content }}
       </main>
     </div>
-    <footer class="footer-bottom bg-light">
-      <nav class="container-xxl text-center py-3">
-        <a class="link-dark" href="{{ site.baseurl }}/Kontakt">Kontakt</a>
+    <footer class="navbar footer-bottom bg-light py-2 mt-2">
+      <nav class="container-xxl flex-wrap px-3 mb-0 justify-content-center">
+        <a class="nav-link p-2 mx-2 link-dark" href="https://www.tanelorn.net/index.php/board,367.0.html"><span class="mi me-2">&#xF252;</span>Tanelorn Forum</a>
+        <a class="nav-link p-2 mx-2 link-dark" href="https://discord.com/channels/493858616902811648/"><span class="mi me-2">&#xF300;</span>Tanelorn Discord</a>
+        <a class="nav-link p-2 mx-2 link-dark" href="https://rsp-blogs.de/"><span class="mi me-2">&#xF521;</span>RSP-BLOGS.DE</a>
       </nav>
     </footer>
-    <script src="{{ site.baseurl }}/assets/js/bootstrap-native.min.js"></script>
     <script src="{{ site.baseurl }}/assets/js/default.js"></script>
   </body>
 </html>

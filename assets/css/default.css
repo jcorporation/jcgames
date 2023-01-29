@@ -1,29 +1,13 @@
----
----
-
-@import "bootstrap.min.css";
-
 @font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url(/assets/MaterialIcons-Regular.woff2) format('woff2');
+  font-family: "Bootstrap Icons";
+  src: url("/assets/bootstrap-icons.woff2") format("woff2");
+  font-display: block;
 }
 
 .mi {
-  font-family: 'Material Icons';
-  font-weight: normal;
-  font-style: normal;
-  font-size: 1.2rem;
+  font-family: "Bootstrap Icons";
+  font-size: 1rem;
   line-height: 1;
-  text-transform: none;
-  letter-spacing: normal;
-  word-wrap: normal;
-  white-space: nowrap;
-  direction: ltr;
-  vertical-align: top;
-  text-rendering: optimizeLegibility;
-  font-feature-settings: 'liga';
 }
 
 body {
@@ -66,14 +50,14 @@ a:hover {
 }
 
 .bg-spacepirates {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-spacepirates-titel.png"), url("{{ site.baseurl }}/assets/images/bg-spacepirates.jpg");
+  background-image: url("/assets/images/bg-spacepirates-titel.png"), url("/assets/images/bg-spacepirates.jpg");
   background-position: center bottom;
   background-repeat: no-repeat, repeat;
   background-size: contain;
 }
 
 .bg-weltenbuch {
-  background-image: url("{{ site.baseurl }}/assets/images/bg-weltenbuch.png");
+  background-image: url("/assets/images/bg-weltenbuch.png");
 }
 
 .bg-lite {
@@ -81,7 +65,7 @@ a:hover {
 }
 
 .card-body-spacepirates {
-  background-image: url("{{ site.baseurl }}/assets/images/spacepirates.png");
+  background-image: url("/assets/images/spacepirates.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -89,7 +73,7 @@ a:hover {
 }
 
 .card-body-weltenbuch {
-  background-image: url("{{ site.baseurl }}/assets/images/weltenbuch.png");
+  background-image: url("/assets/images/weltenbuch.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
@@ -97,7 +81,7 @@ a:hover {
 }
 
 .card-body-lite {
-  background-image: url("{{ site.baseurl }}/assets/images/lite.png");
+  background-image: url("/assets/images/lite.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
