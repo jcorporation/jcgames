@@ -3,6 +3,3 @@ description: freie Rollenspiele
 url: https://jcgames.de
 paginate: 10
 paginate_path: "/Aktuelles/Seite_:num/"
-
-sass:
-    sass_dir: assets/css
