@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuigkeiten"
+title: "Konfliktszenen"
 tag: SpacePirates
 permalink: /Aktuelles/2025-01-19-Konfliktszenen-spacepirates
 ---
