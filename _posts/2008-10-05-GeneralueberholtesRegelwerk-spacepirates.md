@@ -11,4 +11,4 @@ Wie immer sind die aktuellen PDFs in der [Downloadsektion](https://spacepirates.
 
 ## Galerie
 
-Ionflux hat mal wieder den Pinsel geschwungen und für SpacePirates eine Spaceamazone beigesteuert.
+Ionflux hat mal wieder den Pinsel geschwungen und für SpacePirates eine SpaceAmazone beigesteuert.
