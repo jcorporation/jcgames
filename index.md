@@ -12,7 +12,7 @@ jcgames ist ein Hobby von mir, dieses kleine Hobby funktioniert nur durch die ta
         <div class="card bg-spacepirates clickable">
             <div class="card-body card-body-spacepirates"></div>
             <div class="card-footer d-flex justify-content-center card-footer-spiele">
-                <a href="https://spacepirates.jcgames.de/" class="link-light">SpacePirates</a>
+                <a href="https://spacepirates.juergenmang.de/" class="link-light">SpacePirates</a>
             </div>
         </div>
     </div>
@@ -20,7 +20,7 @@ jcgames ist ein Hobby von mir, dieses kleine Hobby funktioniert nur durch die ta
         <div class="card bg-lite clickable">
             <div class="card-body card-body-lite"></div>
             <div class="card-footer d-flex justify-content-center card-footer-spiele">
-                <a href="https://lite.jcgames.de" class="link-light">Lite </a>
+                <a href="https://lite.juergenmang.de" class="link-light">Lite </a>
             </div>
         </div>
     </div>
@@ -28,7 +28,7 @@ jcgames ist ein Hobby von mir, dieses kleine Hobby funktioniert nur durch die ta
         <div class="card bg-weltenbuch clickable">
             <div class="card-body card-body-weltenbuch"></div>
             <div class="card-footer d-flex justify-content-center card-footer-spiele">
-                <a href="https://dasweltenbuch.jcgames.de/" class="link-light">Das Weltenbuch</a>
+                <a href="https://dasweltenbuch.juergenmang.de/" class="link-light">Das Weltenbuch</a>
             </div>
         </div>
     </div>
