@@ -9,7 +9,7 @@ title: Kontakt
 Zur Kontaktaufnahme stehen dir folgende Möglichkeiten zur Verfügung:
 
 - Poste einen Beitrag ins [Forum](https://www.tanelorn.net/index.php/board,367.0.html)
-- Schreibe eine eMail an: [mail@jcgames.de](mailto:mail@jcgames.de)
+- Schreibe eine eMail an: [mail@uergenmang.de](mailto:mail@uergenmang.de)
 - [Tanelorn Discord](https://discord.com/channels/493858616902811648/) (Nick: jcorporation)
 - [Mastodon](https://mastodon.social/@jcorporation)
 
